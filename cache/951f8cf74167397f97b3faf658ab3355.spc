@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:97:"http://www.forbes.com/sites/marketnewsvideo/2016/03/28/monday-sector-laggards-trucking-railroads/";s:8:"feed_url";s:49:"http://www.forbes.com/sites/marketnewsvideo/feed/";s:5:"build";s:14:"20160328020711";}

@@ -18,15 +18,12 @@
 	function summarizeArticle ( $article ) {
 		$teaser = new Teaser ();	
 			
-		$article->summary = $teaser->createSummary ( $article->url, "url" );
+		$article->summary = json_encode($teaser->createSummary ( $article->url, "url" ));
 	}
 	
 	function summarizeResults ( $results ) {		
 		for ( $i = 0; $i < count ($results); $i ++ ) {
-			$teaser = new Teaser ();	
-			
-			$results[$i]->summary = $teaser->createSummary ( $results[$i]->url, 
-															 "url" );			 
+			summarizeArticle ( $results[$i] );
 		}
 	}
 ?>

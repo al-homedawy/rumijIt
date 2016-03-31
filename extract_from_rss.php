@@ -7,12 +7,14 @@
 		public $title;
 		public $url;
 		public $date;
+		public $thumbnail;
 		public $summary;
 		
-		function __construct ( $title, $url, $date ) {
+		function __construct ( $title, $url, $date, $thumbnail ) {
 			$this->title = $title;
 			$this->url = $url;
 			$this->date = $date;
+			$this->thumbnail = $thumbnail;
 		}
 	}
 	
@@ -25,9 +27,77 @@
 			array_push($rss_feed, "http://feeds.reuters.com/Reuters/domesticNews");
 			array_push($rss_feed, "http://feeds.reuters.com/Reuters/worldNews");
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/topNews");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/topstories.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/world.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/canada.xml");
+			array_push($rss_feed, "http://www.cbc.ca/cmlink/rss-cbcaboriginal");
+			array_push($rss_feed, "http://www.thestar.com/feeds.topstories.rss");
+			array_push($rss_feed, "http://www.thestar.com/feeds.articles.news.rss");
+			
+			// General - Middle East
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=news");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=opinion");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=features");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=business");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=culture");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=travel");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=special-reports");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=columns");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=hot-topics");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=84");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=67");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=68");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=69");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=70");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=71");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=72");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=73");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=74");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=75");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=87");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=76");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=83");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=77");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=78");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=79");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=86");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=80");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=81");
+			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?regionID=82");
+			
+			// General - Europe
+			/*
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=42&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=43&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=44&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=45&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=47&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=48&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=49&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=50&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=51&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=53&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=41&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=52&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=147&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=89&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=57&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=59&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=268&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=46&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=60&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=61&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=55&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=40&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=62&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=63&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=64&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=65&language=EN&format=RSS");
+			array_push($rss_feed, "http://europa.eu/rapid/search-result.htm?query=66&language=EN&format=RSS");*/
 			
 			// Politics
 			array_push($rss_feed, "http://feeds.reuters.com/Reuters/PoliticsNews");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/politics.xml");
 			
 			// Business 
 			array_push($rss_feed, "http://www.forbes.com/business/feed/");
@@ -35,16 +105,29 @@
 			array_push($rss_feed, "http://www.forbes.com/entrepreneurs/index.xml");
 			array_push($rss_feed, "http://www.forbes.com/markets/index.xml");
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/businessNews");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/business.xml");
 			
 			// Technology 
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/technologyNews");
 			array_push($rss_feed, "http://www.forbes.com/technology/index.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/technology.xml");
 			
 			// Sports 
+			array_push($rss_feed, "http://www.thestar.com/feeds.articles.sports.rss");
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/sportsNews");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-mlb.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-nba.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-curling.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-cfl.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-nfl.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-soccer.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/sports-figureskating.xml");
 			
 			// Celebrity
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/peopleNews");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/arts.xml");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/offbeat.xml");
 			
 			// Science 
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/scienceNews");
@@ -56,6 +139,7 @@
 			// Lifestyle
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/businessNews");
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/lifestyle");
+			array_push($rss_feed, "http://rss.cbc.ca/lineup/health.xml");
 			
 			// Food
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/healthNews");
@@ -80,14 +164,17 @@
 				foreach ( $feed->get_items() as $item ) {
 					$article = new RSSFeed ( $item->get_title(),
 											 $item->get_link (),
-											 $item->get_date () );
+											 $item->get_date (),
+											 $item->get_enclosure()->get_thumbnail() );
 											 
+					// Summarize the article
 					summarizeArticle ( $article );
-					
+										
 					// Insert result into database
 					insertIntoDatabase ( $article->title, 
 										 $article->url, 
 										 $article->date, 
+										 $article->thumbnail,
 										 json_encode($article->summary) );
 				}
 			}

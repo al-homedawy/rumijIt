@@ -24,7 +24,7 @@
 		$connection->close();
 	}
 		
-	function insertIntoDatabase ( $title, $url, $date, $summary ) {	
+	function insertIntoDatabase ( $title, $url, $date, $thumbnail, $summary ) {	
 		global $servername, $username, $password, $database;
 	
 		// Establish a connection
@@ -35,7 +35,7 @@
 			die ("Connection failed: " . $connection->connect_error);
 		}
 		
-		$sql = "INSERT INTO rss_feeds (title, url, date, summary) VALUES ('$title', '$url', '$date', '$summary')";
+		$sql = "INSERT INTO rss_feeds (title, url, date, thumbnail, summary) VALUES ('$title', '$url', '$date', '$thumbnail', '$summary')";
 		$connection->query($sql);
 
 		// Close the connection

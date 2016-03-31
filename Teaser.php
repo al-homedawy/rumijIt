@@ -1,8 +1,6 @@
 <?php 
 	include 'readability/Readability.php';
 	
-	header('Content-Type: text/plain; charset=utf-8');
-	
 /**
 	* Create a summary from long text blocks
 	*
@@ -48,15 +46,21 @@ class Teaser {
 		$ranks = array_slice($ranks,0,$count);
 		$summaries = array();
 		foreach($ranks as $sentence=>$rank) {
-			$summaries[]=$sentence;
+			$summaries[]=preg_replace("/[^A-Za-z0-9 ]/", '', $sentence);
 		}
 		//return array($summaries,$ranks,$keys,$titleWords);
 		return $summaries;
 	}
 
 	/** Extract article from a page using php-readability */
-	function getArticle($url) {		
-		$html = file_get_contents($url);
+	function getArticle($url) {	
+		$ch = curl_init ();
+		curl_setopt ( $ch, CURLOPT_URL, $url );
+		curl_setopt ( $ch, CURLOPT_RETURNTRANSFER, true );
+		curl_setopt ( $ch, CURLOPT_SSL_VERIFYPEER, false );
+		$html = curl_exec($ch);
+		curl_close($ch);
+		
 		$tidy = tidy_parse_string($html, array(), 'UTF8');
 		$tidy->cleanRepair();
 		$html = $tidy->value;
@@ -67,9 +71,7 @@ class Teaser {
 		
 		$result = $Readability->init();
 		
-		if ( $result ) {
-			$ReadabilityData = $Readability->getContent();
-			
+		if ( $result ) {			
 			$tidy = tidy_parse_string ( $Readability->getContent()->innerHTML,
 										array('indent'=>true, 'show-body-only' => true), 
 										'UTF8');

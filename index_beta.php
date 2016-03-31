@@ -4,18 +4,7 @@
 	</head>
 	
 	<body>
-		<h1>Politics</h1>		
-		
-		<?php
-			include 'extract_from_google.php';
-			include 'summarize_article.php';
-			
-			$googleNews = new GoogleNews ( "", "http://europa.eu/rapid/press-release_MEMO-15-6027_en.htm", "", "" );
-			
-			summarizeArticle ( $googleNews );
-			
-			var_dump ( $googleNews->summary );
-		?>
+		<h1>News</h1>		
 		
 		<?php
 			include 'extract_news.php';

@@ -33,6 +33,9 @@
 			array_push($rss_feed, "http://www.cbc.ca/cmlink/rss-cbcaboriginal");
 			array_push($rss_feed, "http://www.thestar.com/feeds.topstories.rss");
 			array_push($rss_feed, "http://www.thestar.com/feeds.articles.news.rss");
+			array_push($rss_feed, "http://feeds.foxnews.com/foxnews/latest");
+			array_push($rss_feed, "http://feeds.feedburner.com/NdtvNews-TopStories");
+			array_push($rss_feed, "http://feeds.ign.com/ign/all");
 			
 			// General - Middle East
 			array_push($rss_feed, "http://www.yourmiddleeast.com/getRSS.php?section=news");
@@ -106,11 +109,15 @@
 			array_push($rss_feed, "http://www.forbes.com/markets/index.xml");
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/businessNews");
 			array_push($rss_feed, "http://rss.cbc.ca/lineup/business.xml");
+			array_push($rss_feed, "http://feeds.feedburner.com/entrepreneur/latest");
+			array_push($rss_feed, "http://feeds.feedburner.com/entrepreneur/salesandmarketing");
 			
 			// Technology 
 			array_push($rss_feed, "http://feeds.reuters.com/reuters/technologyNews");
 			array_push($rss_feed, "http://www.forbes.com/technology/index.xml");
 			array_push($rss_feed, "http://rss.cbc.ca/lineup/technology.xml");
+			array_push($rss_feed, "http://feeds.feedburner.com/entrepreneur/startingabusiness.rss");
+			array_push($rss_feed, "http://feeds.feedburner.com/entrepreneur/ebiz");
 			
 			// Sports 
 			array_push($rss_feed, "http://www.thestar.com/feeds.articles.sports.rss");
@@ -149,16 +156,7 @@
 			
 			return $rss_feed;
 		}
-		
-		function parseSingleUrl ( $url ) {
-			$feed = new SimplePie ();
-			$feed->set_feed_url ( $url );
-			$feed->init ();
-			$feed->handle_content_type ();
-			
-			
-		}
-		
+				
 		function parseRSSFeed ( $url_array ) {
 			$length = count($url_array);
 			
@@ -170,11 +168,29 @@
 				$feed->handle_content_type ();
 				
 				// Add each article from each link into an array
-				foreach ( $feed->get_items() as $item ) {
+				foreach ( $feed->get_items() as $item ) {			
+					$image_src = $item->get_enclosure()->get_link();
+					
+					if ( strlen ( $image_src ) == 0 ) {
+						$description = $item->get_description();
+						if ( strlen ($description) > 0 ) {
+							$image_src = (string) reset(simplexml_import_dom(DOMDocument::loadHTML($description))->xpath("//img/@src"));
+							if ( strlen ( $image_src ) > 0 ) {
+								$size = getimagesize ( $image_src );
+								
+								if ( $size == false ||
+									 $size[0] < 10 ||
+									 $size[1] < 10 ) {
+									$image_src = "";
+								}
+							}
+						}
+					}
+					
 					$article = new RSSFeed ( $item->get_title(),
 											 $item->get_link (),
 											 $item->get_date (),
-											 $item->get_enclosure()->get_link() );
+											 $image_src );
 											 
 					// Summarize the article
 					summarizeArticle ( $article );

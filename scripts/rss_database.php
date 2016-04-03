@@ -35,14 +35,19 @@
 			die ("Connection failed: " . $connection->connect_error);
 		}
 		
-		$sql = "INSERT INTO rss_feeds (title, url, date, thumbnail, summary) VALUES ('$title', '$url', '$date', '$thumbnail', '$summary')";
-		$connection->query($sql);
+		$sql = "SELECT * FROM rss_feeds WHERE url='$url'";
+		$result = $connection->query ($sql);
+		
+		if ( $result->num_rows == 0 ) {		
+			$sql = "INSERT INTO rss_feeds (title, url, date, thumbnail, summary) VALUES ('$title', '$url', '$date', '$thumbnail', '$summary')";
+			$connection->query($sql);
+		}
 
 		// Close the connection
 		$connection->close();
 	}
 	
-	function retrieveAllFeeds ( $search ) {
+	function retrieveAllFeeds ( $search ) {		
 		global $servername, $username, $password, $database;
 	
 		// Establish a connection
@@ -62,6 +67,17 @@
 		if ( $result->num_rows > 0 ) {
 			while ( $row = $result->fetch_assoc() ) {
 				array_push($results, $row);
+			}
+		}
+		
+		$sql = "SELECT * FROM rss_feeds WHERE title LIKE '%$search%'";
+		$result = $connection->query($sql);
+		
+		if ( $result->num_rows > 0 ) {
+			while ( $row = $result->fetch_assoc() ) {
+				if ( in_array ( $row, $results ) == false ) {
+					array_push($results, $row);
+				} 
 			}
 		}
 

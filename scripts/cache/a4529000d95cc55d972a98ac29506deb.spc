@@ -40,11 +40,59 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
                         
       										      
       
+    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.642";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Junos award winners include Buffy Sainte-Marie, The Weeknd and Justin Bieber";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:81:"http://www.cbc.ca/news/canada/calgary/juno-2016-pre-show-awards-1.3518461?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3518461";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 01:03:44 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"David Bell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:19:"News/Canada/Calgary";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:630:"
+        
+                        <img title='Buffy Sainte-Marie with her two Junos, one for Aboriginal Album of the Year and another for Contemporary Roots Album of the Year. It was a big night for her as well as the Weeknd, Dear Rouge and the band Whitehorse.' height='259' alt='Buffy Sainte-Marie' width='460' src='http://i.cbc.ca/1.3518473.1459656069!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/buffy-sainte-marie.JPG' />                <p>Music-industry stalwarts like The Weeknd and Buffy Sainte-Marie won awards at Saturday's Juno Gala pre-show, but the field was mostly first-time nominees.</p>
+        
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:91:"
+      
+            
+      
+      
+                        
+      							      
+      
+    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:7:"segment";s:6:"deptid";s:0:"";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"Inuit runners hit the pavement in Hawaii ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:144:"http://www.cbc.ca/radio/unreserved/from-boys-with-braids-to-girls-with-game-1.3506645/inuit-runners-hit-the-pavement-in-hawaii-1.3516614?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3516614";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 12:46:49 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:9:"CBC Radio";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:16:"Radio/Unreserved";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:645:"
+        
+                        <img title='Originally from the small northern Quebec Inuit community Salluit, seven students ran a half-marathon in Hawaii. The running group promotes living a healthy lifestyle, which can be hard in their remote community.  ' height='259' alt='Salluit runners in Hawaii ' width='460' src='http://i.cbc.ca/1.3516628.1459532065!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/salluit-runners-in-hawaii.jpg' />                <p>Seven high school students from the small Inuit community of Salluit, Que. have returned from a whirlwind trip to Hilo, Hawaii to run in the half-marathon.</p>
+        
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:94:"
+      
+            
+      
+      
+                        
+      										      
+      
+    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.655";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Indigenous groups descend on Whitehorse to discuss mental wellness";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.cbc.ca/news/canada/north/indigenous-wellness-conference-1.3518025?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3518025";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 13:11:56 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"Garrett Hinchey";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:17:"News/Canada/North";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:664:"
+        
+                        <img title='Participants in the conference gather in a ceremonial circle at Yukon&#39;s Kwanlin Dun First Nation. The conference highlighted a "two-eyed" team approach to wellness, combining indigenous and western practices.' height='259' alt='Wellness conference' width='460' src='http://i.cbc.ca/1.3518066.1459615737!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/wellness-conference.jpg' />                <p>Mental wellness in aboriginal communities was in the spotlight in Whitehorse this week, as teams from across the country descended on the Yukon capital to share their knowledge and culture.</p>
+        
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:94:"
+      
+            
+      
+      
+                        
+      										      
+      
+    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.655";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"Statistics Canada releases fact sheets on Inuit regions";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.cbc.ca/news/canada/north/statistics-canada-inuit-regions-1.3517548?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3517548";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 10:36:15 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:8:"CBC News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:17:"News/Canada/North";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:531:"
+        
+                        <img title='' height='259' alt='Natan Obed' width='460' src='http://i.cbc.ca/1.3353766.1449499043!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/natan-obed.jpg' />                <p>Inuit living in Inuit Nunangat are more likely to live in crowded homes, are less likely to have post secondary education credentials and are less likely to live with both of their parents than non-aboriginal people in the same area, according to new data released by Statistics Canada.</p>
+        
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:94:"
+      
+            
+      
+      
+                        
+      										      
+      
     ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.651";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:90:"&#039;Magical ingredient&#039;: Hunters learn to tan hides using animal brains in Winnipeg";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.cbc.ca/news/canada/manitoba/animal-hide-brain-tanning-winnipeg-1.3518106?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3518106";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 15:19:51 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:10:"Bryce Hoye";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:20:"News/Canada/Manitoba";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:476:"
         
-                        <img title='A brain tanning course was offered at the Manitoba Buckskin workshop Saturday in Winnipeg. A second one-day class is being held April 9.' height='259' alt='Braintan' width='460' src='http://i.cbc.ca/1.3518168.1459625147!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/braintan.jpg' />                <p>A traditional animal hide tanning course was offered in Winnipeg Saturday that taught students how.</p>
+                        <img title='A brain tanning course was offered at the Manitoba Buckskin workshop Saturday in Winnipeg. A second one-day class is being held April 9.' height='259' alt='Braintan' width='460' src='http://i.cbc.ca/1.3518168.1459635513!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/braintan.jpg' />                <p>A traditional animal hide tanning course was offered in Winnipeg Saturday that taught students how.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:94:"
       
             
       
@@ -56,7 +104,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Obedjiwan police have faced chronic funding issues for the past several years.' height='259' alt='obedjiwan ' width='460' src='http://i.cbc.ca/1.3516899.1459534718!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/obedjiwan.jpg' />                <p>The Atikamekw community of Obedjiwan in the Mauricie region has dismantled its police force, saying it blames Quebec for failing to honour an agreement to help pay for it.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:91:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:91:"
       
             
       
@@ -68,7 +116,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Cree actress Imagyn Cardinal in a scene from The Saver. ' height='259' alt='Imajyn Cardinal' width='460' src='http://i.cbc.ca/1.3517019.1459536853!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/imajyn-cardinal.jpg' />                <p>Imajyn Cardinal’s first lead role in a feature film has her in every single scene. She spent seven weeks in a city she was unfamiliar with during the winter with no friends. A stressful time for a then 15- year-old girl.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:94:"
       
             
       
@@ -80,7 +128,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='' height='259' alt='Pauloosie Keeyotak' width='460' src='http://i.cbc.ca/1.3517238.1459542243!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/pauloosie-keeyotak.JPG' />                <p>'They found me and I couldn’t stop crying,' said Nunavut MLA Pauloosie Keyootak who was plucked from a remote part of Baffin Island Thursday after getting lost during a snowmobile trip with his son and nephew.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:94:"
       
             
       
@@ -92,7 +140,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Nine people are believed to have died in a house fire on Pikangikum First Nation. Ontario Provincial Police Const. Diana Cole said the fire broke out late Tuesday night in the remote community near the Manitoba-Ontario border that&#39;s been plagued by suicides. The cause of the fire is under investigation.' height='259' alt='Pikangikum First Nation' width='460' src='http://i.cbc.ca/1.3512856.1459364323!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/pikangikum-first-nation.JPG' />                <p>Provincial police say the examination of the Pikangikum First Nation residence that burned to the ground on Tuesday night is expected to be completed by the end of the weekend or early next week.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:94:"
       
             
       
@@ -104,7 +152,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='On April 1, Saskatchewan Party Leader Brad Wall announced two proposals for clean energy involving First Nations.' height='259' alt='Brad Wall in Regina on Friday April 1, 2016' width='460' src='http://i.cbc.ca/1.3516600.1459528881!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/brad-wall-in-regina-on-friday-april-1-2016.jpg' />                <p>Saskatchewan Party Leader Brad Wall is promising to work with First Nations to develop some "clean energy" projects. Saskatchewan NDP Leader Cam Broten says his party would go further.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:94:"
       
             
       
@@ -116,7 +164,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='' height='259' alt='Mark Hagemoen' width='460' src='http://i.cbc.ca/1.3516483.1459525059!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/mark-hagemoen.jpg' />                <p>The response calls on members to make 8 commitments to Indigenous Peoples — including supporting the national inquiry into missing and murdered indigenous women.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:94:"
       
             
       
@@ -128,7 +176,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Fort William First Nation Chief Peter Collins (right) and lands director Ian Bannon (left) look at an artist&#39;s rendition of the original community before it was relocated in 1905.' height='259' alt='Peter Collins - Ian Bannon' width='460' src='http://i.cbc.ca/1.3517071.1459537928!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/peter-collins-ian-bannon.JPG' />                <p>Officials with the Fort William First Nation say a settlement offer from the Canadian government is a historic one.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:97:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:97:"
       
             
       
@@ -140,7 +188,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Smoke alarms were not present in 18 out of 79 house fires on Manitoba First Nations in 2014, according to Office of the Fire Commissioner statistics.' height='259' alt='smoke detector' width='460' src='http://i.cbc.ca/1.3515917.1459481891!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/smoke-detector.jpg' />                <p>In nearly a quarter of residential fires on Manitoba First Nations there was no smoke alarm present, according to the latest figures from provincial fire investigators.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:94:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:94:"
       
             
       
@@ -152,7 +200,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='Uqqummiut MLA Pauloosie Keyootak and two other travellers haven&#39;t been seen since last Tuesday, when they left Iqaluit for Pangnirtung.' height='259' alt='Pauloosie Keyootak' width='460' src='http://i.cbc.ca/1.3511353.1459285262!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/pauloosie-keyootak.jpg' />                <p>Uqqummiut member of the Nunavut Legislature Pauloosie Keyootak, his son Atamie Qiyuqtaq, and Peter Kakkik, have been found alive after a weeklong search on Baffin Island.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:91:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:91:"
       
             
       
@@ -164,52 +212,4 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
         
                         <img title='' height='259' alt='Christianity and aboriginal Canadians' width='460' src='http://i.cbc.ca/1.3516143.1459513985!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/christianity-and-aboriginal-canadians.jpg' />                <p>For centuries, the relationship between the Christian church and indigenous Canadians has been fraught. Even after the residential schools era, a majority of aboriginal people still identify as Christian, fusing religion with their own beliefs and traditions.</p>
         
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:94:"
-      
-            
-      
-      
-                        
-      										      
-      
-    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.657";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Canada Revenue Agency defends collection of back taxes from O.I. Leasing workers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://www.cbc.ca/news/canada/ottawa/canada-revenue-agency-oi-leasing-response-miche-jette-1.3516047?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3516047";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 1 Apr 2016 08:11:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:8:"CBC News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:18:"News/Canada/Ottawa";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:617:"
-        
-                        <img title='Miche Jette received a notice from the Canada Revenue Agency last week saying he owes more than $190,000 in back taxes.' height='259' alt='Miche Jette' width='460' src='http://i.cbc.ca/1.3511589.1459335473!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/miche-jette.jpg' />                <p>The Canada Revenue Agency is defending its collection of back taxes from indigenous former employees of O.I. Leasing after an Ottawa man owing more than $190,000 said he believed he was doing nothing wrong and that he'll never be able to pay the debt.</p>
-        
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:94:"
-      
-            
-      
-      
-                        
-      										      
-      
-    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.701";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Community leaders push for indigenous voters to engage in upcoming provincial election";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:111:"http://www.cbc.ca/news/canada/saskatoon/indigenous-voter-apathy-ahead-of-provincial-elections-1.3515639?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3515639";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 31 Mar 2016 21:26:57 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:26:"Kelly Malone,Victoria Dinh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"News/Canada/Saskatoon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:527:"
-        
-                        <img title='Some people are saying there is voter apathy when it comes to indigenous people heading to the polls in Saskatchewan on April 4.' height='259' alt='Vote Sask' width='460' src='http://i.cbc.ca/1.3515664.1459466825!/fileImage/httpImage/image.bmp_gen/derivatives/16x9_460/vote-sask.bmp' />                <p>In the recent federal election, turnout among indigenous voters was up significantly but for the upcoming provincial election the voter momentum is lagging.</p>
-        
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:94:"
-      
-            
-      
-      
-                        
-      										      
-      
-    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.659";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Regina woman, 27, charged with murder after Muskowekwan First Nation death";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:118:"http://www.cbc.ca/news/canada/saskatchewan/regina-woman-charged-after-muskowekwan-first-nation-death-1.3515578?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3515578";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 31 Mar 2016 19:58:26 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:8:"CBC News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:24:"News/Canada/Saskatchewan";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:412:"
-        
-                        <img title='RCMP, police and paramedics were called to the scene in Red Deer&#39;s south end on Tuesday night. ' height='259' alt='RCMP ' width='460' src='http://i.cbc.ca/1.3504422.1458759790!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/rcmp.jpg' />                <p>A man, 53, was found unresponsive on the Muskowekwan First Nation on Wednesday.</p>
-        
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:94:"
-      
-            
-      
-      
-                        
-      										      
-      
-    ";s:7:"attribs";a:1:{s:25:"http://www.cbc.ca/rss/cbc";a:3:{s:4:"type";s:5:"story";s:6:"deptid";s:5:"2.660";s:9:"syndicate";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"First Nations people at greater risk of developing cancer: report ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.cbc.ca/news/canada/sudbury/cancer-care-report-ontario-first-nations-1.3515108?cmp=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:9:"1.3515108";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 31 Mar 2016 15:43:53 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:8:"CBC News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:19:"News/Canada/Sudbury";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:419:"
-        
-                        <img title='' height='259' alt='laptop health ' width='460' src='http://i.cbc.ca/1.2820011.1414780734!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_460/laptop-health.jpg' />                <p>A new report put together by Cancer Care Ontario and the Chiefs of Ontario highlights increased cancer risk factors for aboriginal people living on reserve in Ontario.</p>
-        
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:6:"server";s:17:"Apache-Coyote/1.1";s:12:"content-type";s:22:"text/xml;charset=UTF-8";s:15:"x-origin-server";s:16:"polopoly_cache01";s:13:"accept-ranges";s:5:"bytes";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:4:"gzip";s:13:"cache-control";s:27:"public, private, max-age=60";s:7:"expires";s:29:"Sat, 02 Apr 2016 21:43:44 GMT";s:4:"date";s:29:"Sat, 02 Apr 2016 21:42:44 GMT";s:14:"content-length";s:4:"4750";s:10:"connection";s:10:"keep-alive";}s:5:"build";s:14:"20160328020711";}
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:6:"server";s:17:"Apache-Coyote/1.1";s:12:"content-type";s:22:"text/xml;charset=UTF-8";s:15:"x-origin-server";s:16:"polopoly_cache01";s:13:"accept-ranges";s:5:"bytes";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:4:"gzip";s:13:"cache-control";s:27:"public, private, max-age=60";s:7:"expires";s:29:"Sun, 03 Apr 2016 21:09:42 GMT";s:4:"date";s:29:"Sun, 03 Apr 2016 21:08:42 GMT";s:14:"content-length";s:4:"4897";s:10:"connection";s:10:"keep-alive";}s:5:"build";s:14:"20160328020711";}

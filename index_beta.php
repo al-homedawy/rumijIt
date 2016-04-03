@@ -19,11 +19,11 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	
-	<body style="overflow: hidden">
+	<body>
 		<!-- Navbar -->
-		<div class="container-fixed navbar" align="right">
+		<div class="container-fixed navbar">			
 			<!-- Contact Me -->
-			<a href="https://www.linkedin.com/in/hussainal" target="_blank">Contact Me</a>
+			<a href="https://www.linkedin.com/in/hussainal" target="_blank"><u>Contact Me</u></a>
 		</div>
 	
 		<!-- Introduction -->
@@ -32,15 +32,18 @@
 		</div>
 	
 		<!-- Search -->
-		<div class="search_class" style="margin-top: 5px;" align="center">
-				<!-- Search text -->
-				<input id="search_query" type="text" placeholder="Ex: Trump" list="search_suggestions">
-					<datalist id="search_suggestions">
-					</datalist>
-				</input>
-				
-				<!-- Search icon -->
-				<button class="btn btn-primary btn-sm" id="search_button" type="button">Search</button>
+		<div class="search_class" style="margin-top: 5px;" align="center">	
+			<!-- Search icon -->
+			<img class="search_icon" src='images/newspaper.png' width="30" height="30" />
+			
+			<!-- Search text -->
+			<input id="search_query" type="text" placeholder="Ex: Trump" list="search_suggestions">
+				<datalist id="search_suggestions">
+				</datalist>
+			</input>
+			
+			<!-- Search icon -->
+			<button class="btn btn-primary btn-sm" id="search_button" type="button">Search</button>
 		</div>
 		
 		<!-- Summarize an individual article -->
@@ -49,6 +52,9 @@
 		</div>
 		
 		<div class="single_article_class" style="margin-top: 5px;" align="center">
+			<!-- Search icon -->
+			<img class="search_icon" src='images/newspaper.png' width="30" height="30" />
+			
 			<!-- Search text -->
 			<input id="single_article_query" type="text" placeholder="Ex: http://google.ca" />
 			
@@ -58,10 +64,10 @@
 		
 		<!-- Loading message -->
 		<div class="loading_message" align="center">
-			<h2>Give us a moment while we search the web!</h2>
+			<h2 id="loading_message_text">Give us a moment while we search the web!</h2>
 		</div>
 		
 		<!-- Search results -->
-		<iframe id="search_query_results" width="100%" height="100%" seamless="seamless" />
+		<div id="search_query_results" width="100%" height="100%" />
 	</body>
 </html>

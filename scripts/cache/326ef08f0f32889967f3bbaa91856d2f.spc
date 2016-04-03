@@ -43,7 +43,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
     
         
     
-      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:11:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:12:"TORONTO STAR";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:43:"http://www.thestar.com/feeds.topstories.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:10:"TOPSTORIES";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 17:37:13 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 17:37:13 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:63:"Copyright Toronto Star 1996-2013 , http://www.thestar.com/terms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:22:"http://www.thestar.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:2:"60";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:42:"
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:11:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:12:"TORONTO STAR";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:43:"http://www.thestar.com/feeds.topstories.rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:10:"TOPSTORIES";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-ca";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 17:05:27 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 17:05:27 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:63:"Copyright Toronto Star 1996-2013 , http://www.thestar.com/terms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:22:"http://www.thestar.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:2:"60";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:42:"
           
           
           
@@ -71,17 +71,16 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:19:"
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:37:"The mystery of the missing Last Spike";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.thestar.com/news/canada/2016/04/02/mystery-of-the-missing-last-spike.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"6b030f99-da18-41c6-98d3-0d83598fe39c";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 06:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:299:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/mystery-of-the-missing-last-spike/tab-ci-last-spikejpg.jpg.size.xxlarge.original.jpg"><br/>Ten years after former prime minister Stephen Harper was presented the historic Last Spike, the commemorative iron has gone missing.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
-            Nicholas Keung - Immigration reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"Kathleen Wynne to meet Patrick Brown, Andrea Horwath on fundraising reforms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:129:"http://www.thestar.com/news/queenspark/2016/04/03/kathleen-wynne-to-meet-patrick-brown-andrea-horwath-on-fundraising-reforms.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"d7dba6c8-f378-424c-b072-d038661b3e72";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 14:54:23 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:428:"<img src="http://www.thestar.com/content/dam/thestar/news/queenspark/2016/04/03/kathleen-wynne-to-meet-patrick-brown-andrea-horwath-on-fundraising-reforms/kathleen-wynne.jpg.size.xxlarge.original.jpg"><br/>Days after the Star’s Martin Regg Cohn revealed Liberal cabinets ministers have secret annual fundraising targets of up to $500,000 each, Wynne stepped up efforts to finally address the role of money in Ontario politics.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:54:"
+            Robert Benzie - Queen's Park Bureau Chief";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:150:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/mystery-of-the-missing-last-spike/tab-ci-last-spikejpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:149:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/mystery-of-the-missing-last-spike/tab-ci-last-spikejpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"Then-106-year old Ralph Lee, with his granddaughters, Landy Anderson, right, and Linda Ing, holds the Last Spike as he waits to board a train to Ottawa in 2006 for Stephen Harper's  official apology to Chinese Canadians for the head tax. The spike, donated to the Redress Campaign by the
-late renowned author Pierre Berton, and later given to the Prime Minister's Office, has since gone missing.
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Peter Power";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"TORONTO STAR FILE PHOTO";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:1;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:189:"http://www.thestar.com/content/dam/thestar/news/queenspark/2016/04/03/kathleen-wynne-to-meet-patrick-brown-andrea-horwath-on-fundraising-reforms/kathleen-wynne.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:188:"http://www.thestar.com/content/dam/thestar/news/queenspark/2016/04/03/kathleen-wynne-to-meet-patrick-brown-andrea-horwath-on-fundraising-reforms/kathleen-wynne.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:221:"Ontario Premier Kathleen Wynne, shown here, wrote to NDP Leader Andrea Horwath and PC Leader Patrick Brown, not pictured, that "my government remains committed to enhancing the integrity of the election finance system." 
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Steve Russell";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:1;a:6:{s:4:"data";s:205:"
           
           
           
@@ -105,207 +104,15 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"‘Ford Nation’ future uncertain after Rob Ford’s death";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.thestar.com/news/city_hall/2016/04/02/ford-nation-future-uncertain-after-rob-fords-death.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"b14d4a91-ed9e-45a0-aa0a-d493ab97f753";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 07:41:06 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:303:"<img src="http://www.thestar.com/content/dam/thestar/news/city_hall/2016/04/02/ford-nation-future-uncertain-after-rob-fords-death/gt4mainart.jpg.size.xxlarge.original.jpg"><br/>The Ford clan vows to continue Rob Ford’s legacy. But, without its singular hero, the fate of ‘Ford Nation’ is unclear. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:49:"
-            David Rider - City Hall Bureau Chief";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:43:"Blue Jays kick off 2016 season against Rays";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:89:"http://www.thestar.com/sports/2016/04/03/blue-jays-kick-off-2016-season-against-rays.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"9bec045b-83cb-4f57-a5c9-7fb6b9888db4";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 15:51:04 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:316:"<img src="http://www.thestar.com/content/dam/thestar/sports/2016/04/03/blue-jays-kick-off-2016-season-against-rays/marcus-stroman.jpg.size.xxlarge.original.jpg"><br/>Jays are coming off their best season in 22 years after winning the American League East and coming within two games of advancing to the World Series.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:46:"
+            Brendan Kennedy - Sports reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:160:"http://www.thestar.com/content/dam/thestar/news/city_hall/2016/04/02/ford-nation-future-uncertain-after-rob-fords-death/gt4mainart.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:159:"http://www.thestar.com/content/dam/thestar/news/city_hall/2016/04/02/ford-nation-future-uncertain-after-rob-fords-death/gt4mainart.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:120:"Doug Ford greets mourners at a  "celebration of life" for his brother Rob Ford at the Toronto Congress Centre Wednesday.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Steve Russell";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"Toronto Star file photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:2;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"Regulating pot benefits kids, Margaret Trudeau tells educators ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:112:"http://www.thestar.com/news/canada/2016/04/02/regulating-pot-benefits-kids-margaret-trudeau-tells-educators.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"eb5c8d38-10ef-46b9-9feb-f796290b1421";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 16:47:29 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:351:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/regulating-pot-benefits-kids-margaret-trudeau-tells-educators/margaret-trudeau.jpg.size.xxlarge.original.jpg"><br/>Marijuana was “the beginning of my self-medicating,” PM’s mother says in speech to schools conference, reflecting on her struggles with bipolar disorder. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:43:"
-            Kenyon Wallace - News reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:174:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/regulating-pot-benefits-kids-margaret-trudeau-tells-educators/margaret-trudeau.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/regulating-pot-benefits-kids-margaret-trudeau-tells-educators/margaret-trudeau.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:134:"Margaret Trudeau speaks Saturday about her battle with mental illness at Sst. Francis Xavier Catholic Secondary School in Mississauga.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:14:"KENYON WALLACE";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"TORONTO STAR";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:3;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:50:"Mayors of Toronto, Montreal sign partnership deal ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:96:"http://www.thestar.com/news/gta/2016/04/02/mayors-of-toronto-montreal-sign-partnership-deal.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"cc9b9086-12ab-43d6-887a-d6d1b1a01ab5";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 12:49:42 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:296:"<img src="http://www.thestar.com/content/dam/thestar/news/gta/2016/04/02/mayors-of-toronto-montreal-sign-partnership-deal/mayorsjpg.jpg.size.xxlarge.original.jpg"><br/>The deal will allow cities to share information on issues including jobs, social development, sustainability and transportation.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:31:"
-            The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:151:"http://www.thestar.com/content/dam/thestar/news/gta/2016/04/02/mayors-of-toronto-montreal-sign-partnership-deal/mayorsjpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:150:"http://www.thestar.com/content/dam/thestar/news/gta/2016/04/02/mayors-of-toronto-montreal-sign-partnership-deal/mayorsjpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:183:"Toronto Mayor John Tory, left, with Montreal Mayor Denis Coderre ahead of Saturday's Blue Jays game. The pair have signed a co-operation and partnership deal between their two cities.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Paul Chiasson";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:4;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"‘At no time did I assault her,’ says Trailer Park Boys’ Michael Smith ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:118:"http://www.thestar.com/entertainment/2016/04/02/at-no-time-did-i-assault-her-says-trailer-park-boys-michael-smith.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"72304b85-053a-443c-aa9e-21244361ae9f";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 14:36:43 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:361:"<img src="http://www.thestar.com/content/dam/thestar/entertainment/2016/04/02/at-no-time-did-i-assault-her-says-trailer-park-boys-michael-smith/bubbles-1.jpg.size.xxlarge.original.jpg"><br/>Actor who plays Bubbles and Georgia Ling, the alleged victim of a domestic assault at a Hollywood hotel, issue a joint statement saying it was just a “heated dispute.”";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:40:"
-            Vjosa Isai - Staff Reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/entertainment/2016/04/02/at-no-time-did-i-assault-her-says-trailer-park-boys-michael-smith/bubbles-1.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.thestar.com/content/dam/thestar/entertainment/2016/04/02/at-no-time-did-i-assault-her-says-trailer-park-boys-michael-smith/bubbles-1.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:134:"Actor Michael Smith, who plays Bubbles in the Trailer Park Boys, was arrested Friday in Los Angeles and charged with domestic battery.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"MARK BLINCH";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:7:"REUTERS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:5;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Why this jilted bride decided to go ahead with her wedding reception";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:112:"http://www.thestar.com/life/2016/04/02/why-this-jilted-bride-decided-to-go-ahead-with-her-wedding-reception.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"42a3d7d8-a5f6-4399-8f67-2ca206898b15";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 11:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:321:"<img src="http://www.thestar.com/content/dam/thestar/life/2016/04/02/why-this-jilted-bride-decided-to-go-ahead-with-her-wedding-reception/main-jilted.jpg.size.xxlarge.original.jpg"><br/>Cher Rankin’s bravest moment came moments after her future father-in-law announced his son had decided not to get married after all. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:42:"
-            Zoe McKnight - Staff Reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:169:"http://www.thestar.com/content/dam/thestar/life/2016/04/02/why-this-jilted-bride-decided-to-go-ahead-with-her-wedding-reception/main-jilted.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:168:"http://www.thestar.com/content/dam/thestar/life/2016/04/02/why-this-jilted-bride-decided-to-go-ahead-with-her-wedding-reception/main-jilted.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:256:"When Cher Rankin was left jilted at the altar 11 years ago, she decided to take the opportunity to decide how her life would go from that point onward. Her story is one of a collection put together by blogger Alexandria Durrell called "Show Me Your Brave."";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:12:"Cole Burston";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:6;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"Best practices in identifying sexual assault complainants: Public Editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:132:"http://www.thestar.com/opinion/public_editor/2016/04/02/best-practices-in-identifying-sexual-assault-complainants-public-editor.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"b574b39e-3779-4fb7-86b7-501d0b84bf8f";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 12:05:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:303:"<img src="http://www.thestar.com/content/dam/thestar/opinion/public_editor/2016/04/02/best-practices-in-identifying-sexual-assault-complainants-public-editor/witness1.jpg.size.xxlarge.original.jpg"><br/>Journalists must balance compassion with verification when interviewing sexual assault complainants.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:42:"
-            Kathy English - Public Editor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:186:"http://www.thestar.com/content/dam/thestar/opinion/public_editor/2016/04/02/best-practices-in-identifying-sexual-assault-complainants-public-editor/witness1.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:185:"http://www.thestar.com/content/dam/thestar/opinion/public_editor/2016/04/02/best-practices-in-identifying-sexual-assault-complainants-public-editor/witness1.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:78:"Two of the three witnesses at the Jian Ghomeshi trial could not be identified.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Kagan McLeod";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:7;a:6:{s:4:"data";s:205:"
-          
-          
-          
-          
-          
-
-          
-          
-          
-            
-
-       
-	            
-	            
-
-        
-        
-
-        
-        
-
-        
-        
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"Andrew Loku police shooting: Why can&#039;t we know who pulled the trigger?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:117:"http://www.thestar.com/news/crime/2016/04/02/andrew-loku-police-shooting-why-cant-we-know-who-pulled-the-trigger.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"44fd590f-b857-4c1d-8959-438018d29a22";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 06:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:323:"<img src="http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/andrew-loku-police-shooting-why-cant-we-know-who-pulled-the-trigger/andrew-loku.jpg.size.xxlarge.original.jpg"><br/>The Special Investigations Unit doesn’t release names of officers cleared in fatal shootings; some critics say that should change.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:41:"
-            Wendy Gillis - News reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
-	              
-	              
-	              
-	              
-	              
-	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:174:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/andrew-loku-police-shooting-why-cant-we-know-who-pulled-the-trigger/andrew-loku.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/andrew-loku-police-shooting-why-cant-we-know-who-pulled-the-trigger/andrew-loku.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:8;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:149:"http://www.thestar.com/content/dam/thestar/sports/2016/04/03/blue-jays-kick-off-2016-season-against-rays/marcus-stroman.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:148:"http://www.thestar.com/content/dam/thestar/sports/2016/04/03/blue-jays-kick-off-2016-season-against-rays/marcus-stroman.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:117:"Toronto Blue Jays ace Marcus Stroman got the nod as the club's Opening Day starter Sunday against the Tampa Bay Rays.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Steve Russell";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:2;a:6:{s:4:"data";s:205:"
           
           
           
@@ -337,7 +144,7 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/sports/bluejays/2016/04/02/a-half-full-look-at-the-blue-jays-season-and-a-half-empty-glance-too/tulo.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.thestar.com/content/dam/thestar/sports/bluejays/2016/04/02/a-half-full-look-at-the-blue-jays-season-and-a-half-empty-glance-too/tulo.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:127:"The Blue Jays offence will have shortstop Troy Tulowitizki from the first day of the season in 2016, as if it needed the boost.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"Frank Gunn";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:9;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/sports/bluejays/2016/04/02/a-half-full-look-at-the-blue-jays-season-and-a-half-empty-glance-too/tulo.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.thestar.com/content/dam/thestar/sports/bluejays/2016/04/02/a-half-full-look-at-the-blue-jays-season-and-a-half-empty-glance-too/tulo.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:127:"The Blue Jays offence will have shortstop Troy Tulowitizki from the first day of the season in 2016, as if it needed the boost.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"Frank Gunn";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:3;a:6:{s:4:"data";s:205:"
           
           
           
@@ -361,7 +168,187 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"The rapid rise of Brampton star Alessia Cara";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:103:"http://www.thestar.com/entertainment/music/2016/04/02/the-rapid-rise-of-brampton-star-alessia-cara.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"e0432165-1cfe-40d6-9169-0c63c6e5b4d2";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 15:34:22 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:292:"<img src="http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/02/the-rapid-rise-of-brampton-star-alessia-cara/1000-alessia-cara-concert.jpg.size.xxlarge.original.jpg"><br/>It wasn’t long ago 19-year-old Cara was singing alone in her bedroom. Now she is up for four Junos.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:42:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"Daesh losing territory in Iraq, Syria: Analysis";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:86:"http://www.thestar.com/news/world/2016/04/03/daesh-losing-territory-in-iraq-syria.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"0bc6261e-5278-4dd8-a2bf-860bac844a15";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 07:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:233:"<img src="http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/daesh-losing-territory-in-iraq-syria/daeshpalmyra.jpg.size.xxlarge.original.jpg"><br/>Where will the black flag fly when the self-declared caliphate is gone? ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
+            Mitch Potter - Foreign Affairs Writer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:144:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/daesh-losing-territory-in-iraq-syria/daeshpalmyra.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:143:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/daesh-losing-territory-in-iraq-syria/daeshpalmyra.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:122:"A member of the Syrian pro-government forces carries a Daesh flag in Palmyra on Mar. 27, after troops recaptured the city.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:3:"STR";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:16:"AFP/Getty Images";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:4;a:6:{s:4:"data";s:233:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Fort St. John &#039;a dangerous place for our women,’ indigenous activist says";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:120:"http://www.thestar.com/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"8eab0100-1fda-4fd1-b568-2571c85e6486";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 07:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:338:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says/rlmmiw22jpg.jpg.size.xxlarge.original.jpg"><br/>Social strains in resource-driven town put indigenous women at high risk, advocates say, as the tragedy of missing and murdered women continues.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
+            Joanna Smith - Ottawa Bureau reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:2:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:177:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says/rlmmiw22jpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:176:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says/rlmmiw22jpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:268:"“My body, my choices, my rights, my voice, taken that night,” Helen Knott, a social worker, activist and poet wrote in a personal essay online about the sexual assault — not her first — that was so violent she feared losing the ability to have more children.
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:15:"Richard Lautens";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:177:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says/rlmmiw21jpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:176:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/fort-st-john-a-dangerous-place-for-our-women-indigenous-activist-says/rlmmiw21jpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:264:"Women are shown walking through the snowy streets of Fort St. John. The annual Sisters in Spirit vigils for missing or murdered indigenous women and girls in Fort St. John always feature an astonishingly long list of names for a city with only about 21,000 people.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:15:"Richard Lautens";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:5;a:6:{s:4:"data";s:233:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"Toronto man shot dead while at memorial for friend shot dead";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.thestar.com/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"a209880c-3492-4f4b-9dcd-bc14c05efd6b";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 13:55:21 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:291:"<img src="http://www.thestar.com/content/dam/thestar/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead/weekes.jpg.size.xxlarge.original.jpg"><br/>Julian Weekes, 27, had been attending a memorial early Saturday on Queen St. E. for his friend Ceyon Carrington.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:43:"
+            Laura DaSilva - Staff Reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:2:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:162:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead/weekes.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:161:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead/weekes.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:210:"Early Saturday, April 2, Toronto police came across a man lying on the sidewalk, near Parliament Street and Richmond Street East. Julian Weekes, 27, of Toronto, died and has been confirmed as a shooting victim.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:14:"Supplied photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:161:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead/ceyon.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:160:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/03/toronto-man-shot-dead-while-at-memorial-for-friend-shot-dead/ceyon.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:272:"On Wednesday, March 23, Toronto police officers responded to reports of a shooting at 260 Carlaw Avenue and found a man who soon died. The victim has been identified as Ceyon Carrington, 29, of Toronto -- whose life Julian Weekes was celebrating when Weekes was shot dead.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:14:"Supplied photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:6;a:6:{s:4:"data";s:205:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Netflix enlists outside help to crack down on piracy, virtual-border hopping ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:123:"http://www.thestar.com/business/2016/04/03/netflix-enlists-outside-help-to-crack-down-on-piracy-virtual-border-hopping.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"5704b9fc-232f-4786-9b67-c220042b8eeb";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 14:09:48 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:346:"<img src="http://www.thestar.com/content/dam/thestar/business/2016/04/03/netflix-enlists-outside-help-to-crack-down-on-piracy-virtual-border-hopping/netflix-canada.jpg.size.xxlarge.original.jpg"><br/>Netflix seems to be tired of customers accessing content available in other countries and scofflaws streaming its original content free of charge.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:50:"
+            Aleksandra Sagan - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:183:"http://www.thestar.com/content/dam/thestar/business/2016/04/03/netflix-enlists-outside-help-to-crack-down-on-piracy-virtual-border-hopping/netflix-canada.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:182:"http://www.thestar.com/content/dam/thestar/business/2016/04/03/netflix-enlists-outside-help-to-crack-down-on-piracy-virtual-border-hopping/netflix-canada.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:138:"Netflix has reportedly hired Vobile Inc., a company that helps firms protect their original content on the web, to tackle its piracy woes.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:11:"Paul Sakuma";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:31:"The Associated Press file photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:7;a:6:{s:4:"data";s:205:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"Children’s aid societies launch major training reforms";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.thestar.com/news/canada/2016/04/03/childrens-aid-societies-launch-major-training-reforms.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"fab122eb-5444-4281-ad47-798484c43c1d";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 07:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:334:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/childrens-aid-societies-launch-major-training-reforms/mary-ballantyne.jpg.size.xxlarge.original.jpg"><br/>New recruits will have to pass standardized course and final exam during a four-month training period before they’re authorized to apprehend children.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:75:"
+            Sandro Contenta - News, Insight, Jim Rankin - Feature reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:165:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/childrens-aid-societies-launch-major-training-reforms/mary-ballantyne.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:164:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/childrens-aid-societies-launch-major-training-reforms/mary-ballantyne.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:220:"Mary Ballantyne, CEO of the Ontario Association of Children's Aid Societies,, says she wants the public to have confidence "that when someone knocks on their door they know that they have met these minimum requirements."";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"Jim Rankin";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"Toronto Star file photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:8;a:6:{s:4:"data";s:205:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:27:"Our Juno Award predictions ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"http://www.thestar.com/entertainment/music/2016/04/03/our-juno-award-predictions.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"8316c81d-f0ee-4173-9f6c-210abc51b023";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 10:44:09 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:298:"<img src="http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/03/our-juno-award-predictions/weeknd.jpg.size.xxlarge.original.jpg"><br/>Music critic Ben Rayner tries his best to predict who will take home the six trophies up for grabs during Sunday’s CTV broadcast from Calgary.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:42:"
             Ben Rayner - Pop Music Critic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
@@ -369,7 +356,7 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:174:"http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/02/the-rapid-rise-of-brampton-star-alessia-cara/1000-alessia-cara-concert.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/02/the-rapid-rise-of-brampton-star-alessia-cara/1000-alessia-cara-concert.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:79:"Alessia Cara rehearses at the Calgary Saddledome ahead of the 2016 Juno Awards.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"Ben Rayner";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:10;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:137:"http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/03/our-juno-award-predictions/weeknd.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:136:"http://www.thestar.com/content/dam/thestar/entertainment/music/2016/04/03/our-juno-award-predictions/weeknd.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:171:"The Weeknd — aka Toronto's Abel Tesfaye, seen here performing at the Grammy Awards in February — definitely had one of the singles of the year in "Can't Feel My Face."";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:30:"Kevork Djansezian/Getty Images";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:9;a:6:{s:4:"data";s:205:"
           
           
           
@@ -393,15 +380,15 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"Trudeau swarmed by locals at Halifax farmers’ market";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:102:"http://www.thestar.com/news/canada/2016/04/02/trudeau-swarmed-by-locals-at-halifax-farmers-market.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"710e6e1a-cd90-40a9-a1fa-b92c428a22a2";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 11:41:44 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:258:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/trudeau-swarmed-by-locals-at-halifax-farmers-market/trudeauhalifaxjpg.jpg.size.xxlarge.original.jpg"><br/>The prime minister took time to shake hands, cuddle babies and take selfies.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:31:"
-            The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"Big spenders not necessarily big winners in 2015 election";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://www.thestar.com/news/canada/2016/04/03/big-spenders-not-necessarily-big-winners-in-2015-election.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"214d014f-9a1d-4af0-9fb3-d66b0c595c68";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 15:58:47 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:331:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/big-spenders-not-necessarily-big-winners-in-2015-election/elections-canadajpg.jpg.size.xxlarge.original.jpg"><br/>According to campaign financial reports filed with Elections Canada, 47 of the top 100 spenders in the federal election failed in their bids.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:59:"
+            Jordan Press, Joan Bryden - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:165:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/trudeau-swarmed-by-locals-at-halifax-farmers-market/trudeauhalifaxjpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:164:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/02/trudeau-swarmed-by-locals-at-halifax-farmers-market/trudeauhalifaxjpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:111:"Trudeau at the Seaport Farmers' Market on the Halifax waterfront, where he stopped to talk to vendors and fans.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:14:"Andrew Vaughan";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"The Canadian Press";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:11;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:173:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/big-spenders-not-necessarily-big-winners-in-2015-election/elections-canadajpg.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:172:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/big-spenders-not-necessarily-big-winners-in-2015-election/elections-canadajpg.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:106:"Campaign signs are seen on lawns in the Toronto riding of Davenport on Canada's federal election day 2015.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:20:"Aaron Vincent Elkaim";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:10;a:6:{s:4:"data";s:205:"
           
           
           
@@ -425,16 +412,15 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"Is Donald Trump actually a fascist?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:79:"http://www.thestar.com/news/world/2016/04/02/donald-trump-american-fascist.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"11112b30-8190-41b4-bd21-cb16df60c5d0";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 07:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:273:"<img src="http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/donald-trump-american-fascist/donald-trump.jpg.size.xxlarge.original.jpg"><br/>Donald Trump's strong-armed call to keep Mexicans and Muslims out of America echoes last century's fascist governments.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:51:"
-            Olivia Ward - Foreign Affairs Reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"Trudeau touts ‘opening up’ Liberal party, removing membership perks ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:118:"http://www.thestar.com/news/canada/2016/04/03/trudeau-touts-opening-up-liberal-party-removing-membership-benefits.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"6caa1f9d-c8fb-4ed1-9b80-c89edd103925";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 09:28:24 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:328:"<img src="http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/trudeau-touts-opening-up-liberal-party-removing-membership-benefits/trudeau-liberals.jpg.size.xxlarge.original.jpg"><br/>The proposal would do away entirely with the principle that card-carrying members are entitled to take part in Liberal activities. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:45:"
+            Joan Bryden - The Canadian Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:137:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/donald-trump-american-fascist/donald-trump.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:136:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/donald-trump-american-fascist/donald-trump.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:151:"Republican presidential candidate Donald Trump's nationalist, xenophobic and violent rhetoric has many wondering whether he is a contemporary fascist.
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:10:"Joe Raedle";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Getty Images";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:12;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:180:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/trudeau-touts-opening-up-liberal-party-removing-membership-benefits/trudeau-liberals.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:179:"http://www.thestar.com/content/dam/thestar/news/canada/2016/04/03/trudeau-touts-opening-up-liberal-party-removing-membership-benefits/trudeau-liberals.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:295:"Prime Minister Justin Trudeau addresses the Nova Scotia Liberal Party annual general meeting in Halifax on Saturday. “Canadians are counting on us to keep building, modernizing and opening up our movement. We can’t let them down," he said of the proposed changes to the party's constitution.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:14:"Andrew Vaughan";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:11;a:6:{s:4:"data";s:205:"
           
           
           
@@ -458,15 +444,15 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Belgian charged with terrorism over foiled plot to attack France";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:114:"http://www.thestar.com/news/world/2016/04/02/belgian-charged-with-terrorism-over-foiled-plot-to-attack-france.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"b49f867e-74cb-467d-b0fb-000fcbae32d8";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 09:30:10 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:312:"<img src="http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/belgian-charged-with-terrorism-over-foiled-plot-to-attack-france/paris.jpg.size.xxlarge.original.jpg"><br/>The 33-year-old suspect, known only as Y.A., has been charged over a planned attack which was thwarted last week outside of Paris.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:48:"
-            James McAuley - The Washington Post";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"Toronto chief planner Jennifer Keesmaat is a new breed of bureaucrat";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:121:"http://www.thestar.com/news/insight/2016/04/03/torontos-chief-planner-jennifer-keesmaat-is-a-new-breed-of-bureaucrat.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"643070d2-f96e-47a7-b6cf-dfd8918c1316";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 07:00:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:421:"<img src="http://www.thestar.com/content/dam/thestar/news/insight/2016/04/03/torontos-chief-planner-jennifer-keesmaat-is-a-new-breed-of-bureaucrat/keesmaat-arms-crossed.jpg.size.xxlarge.original.jpg"><br/>Jennifer Keesmaat has worked to fulfil her vision for the city — and clashed with councillors and the mayor. It’s fully in character for a member of a family that has never been one to submit meekly to authority.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:44:"
+            Donovan Vincent - News reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:165:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/belgian-charged-with-terrorism-over-foiled-plot-to-attack-france/paris.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:164:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/02/belgian-charged-with-terrorism-over-foiled-plot-to-attack-france/paris.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:125:"The “imminent” attack was thwarted after police discovered a stash of explosives in suburban Argenteuil outside of Paris.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:16:"PHILIPPE WOJAZER";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:7:"REUTERS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:13;a:6:{s:4:"data";s:205:"
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:188:"http://www.thestar.com/content/dam/thestar/news/insight/2016/04/03/torontos-chief-planner-jennifer-keesmaat-is-a-new-breed-of-bureaucrat/keesmaat-arms-crossed.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:187:"http://www.thestar.com/content/dam/thestar/news/insight/2016/04/03/torontos-chief-planner-jennifer-keesmaat-is-a-new-breed-of-bureaucrat/keesmaat-arms-crossed.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:133:"Jennifer Keesmaat has taken a public role as chief planner, airing views that don't always align with those of her political masters.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:14:"René Johnston";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:12:"Toronto Star";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:12;a:6:{s:4:"data";s:205:"
           
           
           
@@ -490,12 +476,44 @@ late renowned author Pierre Berton, and later given to the Prime Minister's Offi
 
         
         
-        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"Man with multiple gunshot wounds found dead in downtown Toronto";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:113:"http://www.thestar.com/news/crime/2016/04/02/man-with-multiple-gunshot-wounds-found-dead-in-downtown-toronto.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"8aa66613-f38f-47da-a54c-4ecce612c0f2";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Apr 2016 08:14:21 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:265:"<img src="http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/man-with-multiple-gunshot-wounds-found-dead-in-downtown-toronto/police-tape.jpg.size.xxlarge.original.jpg"><br/>The victim was found near Parliament and Richmond Sts. early Saturday morning.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:42:"
-            Nick Westoll - Staff Reporter";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Amtrak train derails in Pennsylvania after hitting backhoe, killing 2 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:118:"http://www.thestar.com/news/world/2016/04/03/amtrak-train-derails-in-pennsylvania-after-hitting-backhoe-killing-2.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"354067e7-1d8c-4a8d-9a32-761b9ed67fe2";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 13:22:01 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:290:"<img src="http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/amtrak-train-derails-in-pennsylvania-after-hitting-backhoe-killing-2/amtrak-crash.jpg.size.xxlarge.original.jpg"><br/>The train was heading from New York to Savannah, Ga., but derailed just outside of Philadelphia. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:33:"
+            The Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
 	              
 	              
 	              
 	              
 	              
 	              
-	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:170:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/man-with-multiple-gunshot-wounds-found-dead-in-downtown-toronto/police-tape.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:169:"http://www.thestar.com/content/dam/thestar/news/crime/2016/04/02/man-with-multiple-gunshot-wounds-found-dead-in-downtown-toronto/police-tape.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:68:"Police are investigating a fatal shooting downtown Saturday morning.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:13:"Rene Johnston";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:23:"Toronto Star file photo";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:43:"http://www.thestar.com/feeds.topstories.rss";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:16:{s:12:"content-type";s:19:"application/rss+xml";s:14:"content-length";s:4:"5174";s:10:"connection";s:10:"keep-alive";s:13:"accept-ranges";s:5:"bytes";s:13:"cache-control";s:37:"max-age=900, private, must-revalidate";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Sat, 02 Apr 2016 21:41:29 GMT";s:4:"etag";s:29:""30a8855a-6608-52f874c726d21"";s:7:"expires";s:29:"Sat, 02 Apr 2016 21:56:29 GMT";s:13:"last-modified";s:29:"Sat, 02 Apr 2016 21:37:13 GMT";s:6:"server";s:22:"Apache/2.2.31 (Amazon)";s:3:"age";s:2:"88";s:4:"vary";s:15:"Accept-Encoding";s:7:"x-cache";s:19:"Hit from cloudfront";s:3:"via";s:64:"1.1 7de679bde954bc350ac9c489397312b4.cloudfront.net (CloudFront)";s:11:"x-amz-cf-id";s:56:"OD3JGJTMms-wzuPQzFuHWG6qdE3TRuwfwP0hJMYhsAG2Qrj3kKRREA==";}s:5:"build";s:14:"20160328020711";}
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:176:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/amtrak-train-derails-in-pennsylvania-after-hitting-backhoe-killing-2/amtrak-crash.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:175:"http://www.thestar.com/content/dam/thestar/news/world/2016/04/03/amtrak-train-derails-in-pennsylvania-after-hitting-backhoe-killing-2/amtrak-crash.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:136:"Amtrak investigators inspect the deadly train crash in Chester, Pa., Sunday, where two people died and more than 30 people were injured.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:14:"Michael Bryant";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:20:"The Associated Press";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}i:13;a:6:{s:4:"data";s:205:"
+          
+          
+          
+          
+          
+
+          
+          
+          
+            
+
+       
+	            
+	            
+
+        
+        
+
+        
+        
+
+        
+        
+        ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:76:"Syrian refugee greeted with mistrust in online search for Canadian sponsors ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:121:"http://www.thestar.com/news/canada/2016/04/03/nobody-believed-he-was-a-syrian-refugee-online-until-something-clicked.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:36:"dbb91fec-ef94-4f7b-ac9e-c81d89b974ff";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 3 Apr 2016 12:49:00 EDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:231:"<img src="http://www.thestar.com/content/dam/thestar/uploads/2016/4/3/muneer-al-zahabi-1000-2.jpg.size.xxlarge.original.jpg"><br/>Nobody believed Muneer al Zahabi was a Syrian refugee online — until something eventually clicked. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:54:"
+            Stephanie Levitz - The Canadian Press, , ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:7:"content";a:1:{i:0;a:6:{s:4:"data";s:110:"
+	              
+	              
+	              
+	              
+	              
+	              
+	            ";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"url";s:113:"http://www.thestar.com/content/dam/thestar/uploads/2016/4/3/muneer-al-zahabi-1000-2.jpg.size.xxlarge.original.jpg";s:6:"medium";s:5:"image";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:3:{s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:3:"url";s:112:"http://www.thestar.com/content/dam/thestar/uploads/2016/4/3/muneer-al-zahabi-1000-2.jpg.size.xsmall.original.jpg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:244:"Muneer al Zahabi and his son Sami are shown in a handout photo. For nearly three years, his family had been in Jordan, among over half a million Syrians there crammed into apartments and camps. Until he found some hope online to come to Canada.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"credit";a:2:{i:0;a:5:{s:4:"data";s:1:" ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:6:"author";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:18:"THE CANADIAN PRESS";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"role";s:5:"owner";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:43:"http://www.thestar.com/feeds.topstories.rss";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:16:{s:12:"content-type";s:22:"text/xml;charset=utf-8";s:14:"content-length";s:4:"5914";s:10:"connection";s:10:"keep-alive";s:13:"accept-ranges";s:5:"bytes";s:13:"cache-control";s:38:"max-age=1200, private, must-revalidate";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Sun, 03 Apr 2016 21:05:26 GMT";s:4:"etag";s:31:"W/"3079addd-719d-52f9af8b3c73c"";s:7:"expires";s:29:"Sun, 03 Apr 2016 21:25:26 GMT";s:13:"last-modified";s:29:"Sun, 03 Apr 2016 21:05:27 GMT";s:6:"server";s:22:"Apache/2.2.31 (Amazon)";s:3:"age";s:3:"208";s:4:"vary";s:15:"Accept-Encoding";s:7:"x-cache";s:19:"Hit from cloudfront";s:3:"via";s:64:"1.1 3b992cd8d9e4ace056bc70d5a73491d2.cloudfront.net (CloudFront)";s:11:"x-amz-cf-id";s:56:"faOTz_2yFR6NrIGNjHMUqYLHR7QSDAxqqCIeq_uyjDxT1UG0nja5Qg==";}s:5:"build";s:14:"20160328020711";}

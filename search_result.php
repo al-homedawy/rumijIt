@@ -48,7 +48,7 @@
 			} else {			
 				// Parse results
 				$results = json_decode ( extractNews ( $query ) );
-			}
+			} 
 		?>
 		
 		<!-- Display the search results -->
@@ -97,10 +97,12 @@
 					echo "</td>";
 				}
 				
-				echo "<div class='search_status alert alert-success'><a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a> You have <strong>" . count($results) . "</strong> results</div>";
+				$j = 0;
 				
 				for ( $i = 0; $i < count ($results); $i ++ ) {
 					if ( count ( json_decode ( $results[$i]->summary ) ) > 0 ) {
+						$j += 1;
+						
 						echo "<div class='search_information table-responsive' align='center'>";
 							
 							echo "<table class='search_table' style='width: 75%'>";
@@ -118,6 +120,8 @@
 						echo "</div>";
 					}
 				}
+				
+				echo "<div class='search_status alert alert-success'><a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a> You have <strong>" . $j . "</strong> results</div>";
 			?>			
 		</div>
 	</body>

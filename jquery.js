@@ -1,13 +1,23 @@
 $(function(){
 	$(".search_summary").hide ();
-	$("#search_query_results").hide ();
 	$(".loading_message").hide ();
 	
-	$("#search_query_results").load ( function () {
-		$(".loading_message").hide ();
-		$("#search_query_results").show ();
-	});
 	
+	setInterval(function() {
+		if ( $(".loading_message").is(":visible") ) {
+			$("#loading_message_text").text("." + $("#loading_message_text").text() + ".");
+		}
+    }, 1500);
+
+	
+	if ( $("#search_query_results").html ().length < 10 ) {
+		$(".search_icon").hide ();
+	}
+	
+	$(".search_icon").click ( function () {
+		location.reload ();
+	});
+		
 	$("#search_query").on ( "input", function (event) {
 		// Obtain the latest text
 		var text = $(this).val ();
@@ -15,6 +25,7 @@ $(function(){
 		if ( text.length > 0 ) {
 			$.ajax ( {
 				url: "scripts/search_suggestions.php?search=" + text,
+				cache: false,
 				success: function ( response ) {
 					$("#search_suggestions").empty ();
 					
@@ -42,9 +53,17 @@ $(function(){
 		}
 	});
 	
+	$("#single_article_query").keypress ( function (e) {
+		if ( e.keyCode == 13 ) {
+			$("#single_article_button").click ();
+		}
+	});
+	
 	$("#search_button").click ( function () {
+		$("#loading_message_text").text ("Give us a moment while we search the web!");
+		$(".search_icon").show ();
 		$(".loading_message").show ();
-		$("#search_query_results").hide ();
+		$("#search_query_results").empty();
 		
 	    // Hide the introduction
 		$(".introduction").hide ();
@@ -52,34 +71,50 @@ $(function(){
 		$(".single_article_class").hide ();
 		
 		// Reposition the search bar 
-		$(".search_class").attr("style", "top: 5%; left: 10%;");
+		$(".search_class").attr("style", "top: 5%; left: 15%;");
 		
 		// Obtain the search query
 		var search_query = $("#search_query").val ();
 		search_query = search_query.replace ( " ", "%20" );
 		
 		// Display the results
-		$("#search_query_results").attr ( "src", "search_result.php?search=" + search_query );
+		$.ajax ( {
+				url: "search_result.php?search=" + search_query,
+				cache: false,
+				success: function ( response ) {
+					$(".loading_message").hide ();
+					$("#search_query_results").empty().append ( response );
+				}
+		} );
    } );
    
-   $("#single_article_button").click ( function () {	
+   $("#single_article_button").click ( function () {
+		$("#loading_message_text").text ("Give us a moment while we read the article!");
+		$(".search_icon").show ();
 		$(".loading_message").show ();
+		$("#search_query_results").empty();
    
 		// Hide the introduction
 		$(".introduction").hide ();
 		$(".single_article_intro").hide ();
-		$(".single_article_class").hide ();
+		$(".search_class").hide ();
 		
 		// Reposition the search bar 
-		$(".search_class").attr("style", "top: 5%; left: 10%;");
+		$(".single_article_class").attr("style", "top: 5%; left: 15%;");
 		
 		// Obtain the search query
 		var search_query = $("#single_article_query").val ();
 		search_query = search_query.replace ( " ", "%20" );
 		
 		// Display the results
-		$("#search_query_results").show ();
-		$("#search_query_results").attr ( "src", "search_result.php?url=" + search_query );
+		$.ajax ( {
+				url: "search_result.php?url=" + search_query,
+				cache: false,
+				success: function ( response ) {
+					$(".loading_message").hide ();
+					$("#search_query_results").empty().append ( response );
+				}
+		} );
    });
    
    $(".search_image").click ( function () {	   

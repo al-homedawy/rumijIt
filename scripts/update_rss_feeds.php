@@ -4,9 +4,6 @@
 	include 'summarize_article.php';
 	include 'extract_from_rss.php';
 	
-	// Clear our database
-	clearRSSDatabase ();
-	
 	// Initialize our RSS scraper
 	$collectRSSFeed = new CollectRSSFeed ();
 	

@@ -75,13 +75,14 @@ hr {
 	font-family: "Quattrocento";
 	font-weight: normal;
 	color: #4bacff;
+	width: 100%;
 }
 
 .single_article_intro {
 	position: fixed;
     top: 60%;
     left: 50%;
-	width: 25%;
+	width: 100%;
 	margin-right: -50%;
     transform: translate(-50%, -50%);
 }

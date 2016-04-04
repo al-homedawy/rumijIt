@@ -23,6 +23,20 @@
 			// Setup our RSS feed array
 			$rss_feed = array ();
 			
+			// Needs to be organized
+			array_push($rss_feed, "http://www.usnews.com/rss/education");
+			array_push($rss_feed, "http://www.usnews.com/rss/health");
+			array_push($rss_feed, "http://www.usnews.com/rss/money");
+			array_push($rss_feed, "http://www.usnews.com/rss/news");
+			array_push($rss_feed, "http://www.usnews.com/rss/opinion");
+			array_push($rss_feed, "http://www.usnews.com/rss/science");
+			array_push($rss_feed, "http://travel.usnews.com/rss/");
+			array_push($rss_feed, "https://ca.sports.yahoo.com/top/rss.xml");
+			array_push($rss_feed, "https://ca.sports.yahoo.com/mlb/rss.xml");
+			array_push($rss_feed, "https://ca.sports.yahoo.com/nfl/rss.xml");
+			array_push($rss_feed, "https://ca.sports.yahoo.com/nba/rss.xml");
+			array_push($rss_feed, "https://ca.sports.yahoo.com/nhl/rss.xml");
+			
 			// General 
 			array_push($rss_feed, "http://feeds.reuters.com/Reuters/domesticNews");
 			array_push($rss_feed, "http://feeds.reuters.com/Reuters/worldNews");

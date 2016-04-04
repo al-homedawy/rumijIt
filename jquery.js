@@ -175,4 +175,9 @@ $(function(){
 	   $("#search_query").val ("sports");
 	   $("#search_button").click ();
    } );
+   
+   $("#search_united_states").click ( function () {
+	   $("#search_query").val ("United States");
+	   $("#search_button").click ();
+   } );
  }); 

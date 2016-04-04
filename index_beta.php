@@ -79,6 +79,9 @@
 			<!-- Latest news -->
 			<a href="#" id="search_latest_news"><u>Latest News</u></a>
 			
+			<!-- United States -->
+			<a href="#" id="search_united_states"><u>United States</u></a>
+			
 			<!-- Tesla -->
 			<a href="#" id="search_tesla"><u>Tesla</u></a>
 			

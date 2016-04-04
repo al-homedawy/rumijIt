@@ -3,6 +3,10 @@
 	<head>
 		<title>Rumijit</title>
 		
+		<!-- Site information -->
+		<meta name="author" content="Hussain Al-Homedawy">
+		<meta name="keywords" content="news,summarize,simple,inquiry,inquire,latest">
+		
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
@@ -103,7 +107,7 @@
 		
 		<footer>
 			<p class="text-muted">
-				Content &copy; 2015 &nbsp; RumijIt. All Rights Reserved &nbsp; &nbsp;
+				Content &copy; 2015 &nbsp;RumijIt. All Rights Reserved &nbsp; &nbsp;
 			</p>
 		</footer>
 		

@@ -1,9 +1,9 @@
-<?php
+<?php			
 	// Setup database credentials
 	$servername="localhost";
-	$username="root";
-	$password="";
-	$database="projecty";
+	$username="hussaina_admin";
+	$password="john.f.kennedy";
+	$database="hussaina_projecty";
 	
 	function clearRSSDatabase () {
 		global $servername, $username, $password, $database;

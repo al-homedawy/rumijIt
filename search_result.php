@@ -2,9 +2,7 @@
 <html lang="en">
 <html>
 
-	<head>
-		<title>QuickNews</title>
-		
+	<head>		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
@@ -60,7 +58,7 @@
 					// Display the article image
 					echo "<td class='search_image' style='width: 70%;'>";
 						if ( strlen($results[$i]->thumbnail) > 0 ) {
-							echo "<img class='search_image_src img-rounded' src='" . $results[$i]->thumbnail . "'/>";
+							echo "<img class='search_image_src img-rounded' title='Click on the image for a summary!' src='" . $results[$i]->thumbnail . "'/>";
 						} else {						
 							echo "<h2 style='text-align: center;'>" . $results[$i]->title . "</h2>";
 							echo "<p style='text-align: center; font-size: 16px;'><kbd>Click over here to read the description!</kbd></p>";
@@ -84,7 +82,7 @@
 					global $results;
 					
 					// Display the article portfolio
-					echo "<td class='search_portfolio jumbotron' style='width: 30%;'>";											
+					echo "<td class='search_portfolio jumbotron text-center' style='width: 30%;'>";											
 						// Title
 						echo "<h4 style='text-align: center;'>" . $results[$i]->title . "</h4>";						
 						echo "<hr>";

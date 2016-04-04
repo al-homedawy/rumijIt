@@ -1,6 +1,9 @@
 <?php
 	ini_set('max_execution_time', 3600);
 	
+	// Turn off all error reporting
+	error_reporting(E_ALL ^ E_DEPRECATED ^ E_STRICT);
+	
 	include 'summarize_article.php';
 	include 'extract_from_rss.php';
 	

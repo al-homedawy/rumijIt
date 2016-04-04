@@ -59,7 +59,13 @@ $(function(){
 		}
 	});
 	
+	$(".logo").click ( function () {
+		location.reload ()
+	} );
+	
 	$("#search_button").click ( function () {
+		$(".logo").hide ();
+		$(".common_searches").hide ();
 		$("#loading_message_text").text ("Give us a moment while we search the web!");
 		$(".search_icon").show ();
 		$(".loading_message").show ();
@@ -89,6 +95,8 @@ $(function(){
    } );
    
    $("#single_article_button").click ( function () {
+	    $(".logo").hide ();
+		$(".common_searches").hide ();
 		$("#loading_message_text").text ("Give us a moment while we read the article!");
 		$(".search_icon").show ();
 		$(".loading_message").show ();
@@ -132,5 +140,39 @@ $(function(){
 			$(this).parent().children(".search_summary").fadeIn ();
 		});
    } );
+   
+   $("#search_latest_news").click ( function () {
+	   $("#search_query").val ("");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_tesla").click ( function () {
+	   $("#search_query").val ("tesla");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_islam").click ( function () {
+	   $("#search_query").val ("islam");
+	   $("#search_button").click ();
+   } );
 
+   $("#search_syria").click ( function () {
+	   $("#search_query").val ("syria");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_trump").click ( function () {
+	   $("#search_query").val ("trump");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_obama").click ( function () {
+	   $("#search_query").val ("obama");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_sports").click ( function () {
+	   $("#search_query").val ("sports");
+	   $("#search_button").click ();
+   } );
  }); 

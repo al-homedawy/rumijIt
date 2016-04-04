@@ -1,5 +1,5 @@
 <?php
-	require 'php\autoloader.php';
+	require 'php/autoloader.php';
 	
 	include 'rss_database.php';
 	

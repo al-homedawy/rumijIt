@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Quick News</title>
+		<title>Rumijit</title>
 		
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -24,6 +24,11 @@
 		<div class="container-fixed navbar">			
 			<!-- Contact Me -->
 			<a href="https://www.linkedin.com/in/hussainal" target="_blank"><u>Contact Me</u></a>
+		</div>
+		
+		<!-- Logo -->
+		<div class="logo" align="center">
+			<img src='images/rumijitLogo.gif' width='300px' height='200px' />
 		</div>
 	
 		<!-- Introduction -->
@@ -66,6 +71,38 @@
 		<div class="loading_message" align="center">
 			<h2 id="loading_message_text">Give us a moment while we search the web!</h2>
 		</div>
+		
+		<!-- Common searches -->
+		<div class="common_searches" align="center">			
+			<h4>People searched for...</h4>
+			
+			<!-- Latest news -->
+			<a href="#" id="search_latest_news"><u>Latest News</u></a>
+			
+			<!-- Tesla -->
+			<a href="#" id="search_tesla"><u>Tesla</u></a>
+			
+			<!-- Islam -->
+			<a href="#" id="search_islam"><u>Islam</u></a>
+			
+			<!-- Syria -->
+			<a href="#" id="search_syria"><u>Syria</u></a>
+			
+			<!-- Trump -->
+			<a href="#" id="search_trump"><u>Trump</u></a>
+			
+			<!-- Obama -->
+			<a href="#" id="search_obama"><u>Obama</u></a>
+			
+			<!-- Sports -->
+			<a href="#" id="search_sports"><u>Sports</u></a>
+		</div>
+		
+		<footer>
+			<p class="text-muted">
+				Content &copy; 2015 &nbsp; RumijIt. All Rights Reserved &nbsp; &nbsp;
+			</p>
+		</footer>
 		
 		<!-- Search results -->
 		<div id="search_query_results" width="100%" height="100%" />

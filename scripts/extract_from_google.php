@@ -1,6 +1,5 @@
 <?php	
 	define ( "MAIN_SITE", "www.al-homedawy" );
-	define ( "SERVER_IP", "99.239.204.188" );
 	define ( "MAX_INTERATIONS", "1" );
 	
 	class GoogleNews {
@@ -33,7 +32,7 @@
 		$google_url .= "v=1.0&q=";
 		$google_url .= $search;
 		$google_url .= "&userip=";
-		$google_url .= SERVER_IP;//$ip_address;
+		$google_url .= $ip_address;
 		$google_url .= "&rsz=large&scoring=d";
 		
 		$j = 0;

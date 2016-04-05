@@ -58,7 +58,7 @@
 			die ("Connection failed: " . $connection->connect_error);
 		}
 		
-		$sql = "SELECT * FROM rss_feeds WHERE summary LIKE '%$search%'";
+		$sql = "SELECT * FROM rss_feeds WHERE summary LIKE '%$search%' ORDER BY id DESC";
 		$result = $connection->query($sql);
 		
 		// Collect the results
@@ -70,7 +70,7 @@
 			}
 		}
 		
-		$sql = "SELECT * FROM rss_feeds WHERE title LIKE '%$search%'";
+		$sql = "SELECT * FROM rss_feeds WHERE title LIKE '%$search%' ORDER BY id DESC";
 		$result = $connection->query($sql);
 		
 		if ( $result->num_rows > 0 ) {

@@ -1,5 +1,5 @@
 <?php	
-	define ( "MAIN_SITE", "www.al-homedawy" );
+	define ( "MAIN_SITE", "http://www.rumijit.com/" );
 	define ( "MAX_INTERATIONS", "1" );
 	
 	class GoogleNews {

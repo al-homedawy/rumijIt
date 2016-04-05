@@ -6,13 +6,67 @@
 @import url(https://fonts.googleapis.com/css?family=Dosis);
 @import url(https://fonts.googleapis.com/css?family=Quattrocento);
 
+@media all and (max-width: 480px) {
+    *{font-size: 10px;}
+	p{font-size: 10px;}
+	h1{font-size: 10px;}
+	h2{font-size: 10px;}
+	h3{font-size: 10px;}
+	h4{font-size: 10px;}
+	button{font-size: 10px;}
+	.introduction {
+		position: absolute;
+		top: 10%;
+		left: 10%;
+		margin-right: -50%;
+		transform: translate(10%, 10%);
+		width: 100%;
+	}
+	.search_information { width: 100%; }
+	table { width: 100%; padding: 0px; border-collapse: collapse; border-spacing: 0; }
+	td { display:block; }
+	.search_table{padding: 0px; margin: 0px;}
+	.search_image p h2 {font-size: 8px;}
+	.search_summary{font-size: 10px; width: 100%; height: 100%;}
+	.search_portfolio{font-size: 10px;}
+	.search_portfolio p a {font-size: 10px;}
+	#search_view{visibility: visible; position: relative; top: 0%;}
+	#search_query_results {
+		width: 100%;
+	}
+	#logo_img {
+		width: 100px; 
+		height: 80px;
+	}
+	.search_icon{
+		width: 30px;
+		height: 30px;
+	}
+	body {
+		background-color: white;
+		width: 100%;
+		height: 100%;
+		margin: 0;
+		text-align: center;
+	}
+	html, body {
+		max-width: 100%;
+		overflow-x: hidden;
+	}
+}
+
+* {
+    box-sizing: border-box;
+}
+
 .logo {
 	cursor: pointer;
 	position: absolute;
-	top: 20%;
+	top: 25%;
     left: 50%;
 	margin-right: -50%;
     transform: translate(-50%, -50%);
+	z-index: 100;
 }
 
 .common_searches {
@@ -24,6 +78,20 @@
 	font-family: "Roboto Condensed";
 	font-weight: normal;
 	color: #4bacff;
+	width: 100%;
+}
+
+.search_results {
+	width: 100%;
+}
+
+.common_searches h4 {
+	padding-bottom: 5px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 body {
@@ -31,11 +99,12 @@ body {
 	width: 100%;
 	height: 100%;
 	margin: 0;
+	text-align: center;
 }
 
 footer {
+	position: fixed;
     bottom: 0;
-    position: fixed;
     width: 100%;
 	z-index: 10;
 	text-align: center;
@@ -69,17 +138,17 @@ hr {
     left: 50%;
 	margin-right: -50%;
     transform: translate(-50%, -50%);
+	width: 100%;
 }
 
 #introduction_text {
 	font-family: "Quattrocento";
 	font-weight: normal;
 	color: #4bacff;
-	width: 100%;
 }
 
 .single_article_intro {
-	position: fixed;
+	position: absolute;
     top: 60%;
     left: 50%;
 	width: 100%;
@@ -103,23 +172,23 @@ hr {
 }
 
 .search_class {
-	position: fixed;
+	position: absolute;
     top: 50%;
     left: 50%;
 	margin-right: -50%;
     transform: translate(-50%, -50%);
 	z-index: 1;
-	width: 35%;
+	width: 100%;
 }
 
 .single_article_class {
-	position: fixed;
+	position: absolute;
     top: 70%;
     left: 50%;
 	margin-right: -50%;
     transform: translate(-50%, -50%);
 	z-index: 2;
-	width: 30%;
+	width: 100%;
 }
 
 .search_image_src {
@@ -147,9 +216,10 @@ hr {
 }
 
 .search_summary {
+	cursor: pointer;
 	font-family: "Lato";
 	font-weight: normal;
-	width: 50%;
+	width: 100%;
 	height: 50%;
 	font-size: 20px;
 	
@@ -171,10 +241,16 @@ hr {
 
 .navbar {
 	position: fixed;
-	margin: 20px;
+	z-index: 1;
 	font-family: "Roboto Condensed";
 	font-size: 16px;
-	right: 5%;
+	width: 100%;	
+	background-color: white;
+}
+
+.navbar a {
+	float: right;
+	margin: 20px;
 }
 
 .search_portfolio {

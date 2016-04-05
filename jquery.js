@@ -2,7 +2,6 @@ $(function(){
 	$(".search_summary").hide ();
 	$(".loading_message").hide ();
 	
-	
 	setInterval(function() {
 		if ( $(".loading_message").is(":visible") ) {
 			$("#loading_message_text").text("." + $("#loading_message_text").text() + ".");
@@ -46,16 +45,18 @@ $(function(){
 			});
 		}
 	});		
-	
-	$("#search_query").keypress ( function (e) {
+		
+	$("#search_query").keypress ( function (e) {		
 		if ( e.keyCode == 13 ) {
 			$("#search_button").click ();
+			$("#search_query").blur ();
 		}
 	});
 	
 	$("#single_article_query").keypress ( function (e) {
 		if ( e.keyCode == 13 ) {
 			$("#single_article_button").click ();
+			$("#single_article_query").blur ();
 		}
 	});
 	
@@ -77,7 +78,10 @@ $(function(){
 		$(".single_article_class").hide ();
 		
 		// Reposition the search bar 
-		$(".search_class").attr("style", "top: 5%; left: 15%;");
+		$(".search_class").removeAttr("style");
+		$(".search_class").appendTo(".navbar");
+		$(".search_class").attr("class", "search_class_new");
+		$(".search_class_new").attr("style", "margin: 5px; float: left;");
 		
 		// Obtain the search query
 		var search_query = $("#search_query").val ();
@@ -108,11 +112,16 @@ $(function(){
 		$(".search_class").hide ();
 		
 		// Reposition the search bar 
-		$(".single_article_class").attr("style", "top: 5%; left: 15%;");
+		$(".single_article_class").removeAttr("style");
+		$(".single_article_class").appendTo(".navbar");
+		$(".single_article_class").attr("class", "single_article_class_new");
+		$(".single_article_class_new").attr("style", "margin: 5px; float: left;");
 		
 		// Obtain the search query
 		var search_query = $("#single_article_query").val ();
 		search_query = search_query.replace ( " ", "%20" );
+		search_query = search_query.replace ( "http://", "" );
+		search_query = search_query.replace ( "https://", "" );
 		
 		// Display the results
 		$.ajax ( {
@@ -124,6 +133,15 @@ $(function(){
 				}
 		} );
    });
+   
+   $(".search_summary").click ( function () {	   
+		// Hide the image
+		$(this).fadeToggle ("fast", function () {
+			// Display the summary
+			$(this).parent().children(".search_image").fadeIn ();
+			$(this).parent().children(".search_image_generic").fadeIn ();
+		});
+   } );
    
    $(".search_image").click ( function () {	   
 		// Hide the image
@@ -178,6 +196,11 @@ $(function(){
    
    $("#search_united_states").click ( function () {
 	   $("#search_query").val ("United States");
+	   $("#search_button").click ();
+   } );
+   
+   $("#search_israel").click ( function () {
+	   $("#search_query").val ("Israel");
 	   $("#search_button").click ();
    } );
  }); 

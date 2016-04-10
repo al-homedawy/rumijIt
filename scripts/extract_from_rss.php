@@ -195,8 +195,8 @@
 								$size = getimagesize ( $image_src );
 								
 								if ( $size == false ||
-									 $size[0] < 10 ||
-									 $size[1] < 10 ) {
+									 $size[0] < 200 ||
+									 $size[1] < 200 ) {
 									$image_src = "";
 								}
 							}

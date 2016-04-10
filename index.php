@@ -82,7 +82,7 @@
 	
 		<!-- Introduction -->
 		<div class="introduction" align="center">
-			<h2 id="introduction_text">Search for your summarized news articles</h2>
+			<h2 id="introduction_text">Try Rumijit! The News Engine's Search Engine!</h2>
 		</div>
 	
 		<!-- Search -->
@@ -108,7 +108,7 @@
 		
 		<!-- Summarize an individual article -->
 		<div class="single_article_intro" align="center">
-			<h3 id="introduction_text">or summarize a single article</h3>
+			<h3 id="introduction_text">or summarize an article</h3>
 		</div>
 		
 		<div class="single_article_class" style="margin-top: 5px;" align="center">

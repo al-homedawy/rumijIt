@@ -44,7 +44,7 @@
 
 
 		<!-- Search for results -->
-		<?php
+		<?php			
 			include 'scripts/extract_news.php';
 			
 			// Turn off all error reporting
@@ -134,7 +134,7 @@
 						if ( strlen($results[$i]->thumbnail) > 0 ) {
 							echo "<img class='search_image_src img-rounded' title='Click on the image for a summary!' src='" . $results[$i]->thumbnail . "'/>";
 						} else {						
-							echo "<h2 style='text-align: center;'>" . $results[$i]->title . "</h2>";
+							echo "<h2 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h2>";
 							echo "<p style='text-align: center; font-size: 16px;'><kbd>Click over here to read the description!</kbd></p>";
 						}						
 						
@@ -146,7 +146,7 @@
 							$summary = json_decode ( $results[$i]->summary );
 							
 							for ( $j = 0; $j < count ($summary); $j ++ ) {
-								echo "<li>" . $summary[$j] . "</li>";
+								echo "<li>" . html_entity_decode ( $summary[$j] ). "</li>";
 							}
 						echo "</ul>";							
 					echo "</td>";
@@ -158,7 +158,7 @@
 					// Display the article portfolio
 					echo "<td class='search_portfolio jumbotron text-center' style='width: 30%;'>";											
 						// Title
-						echo "<h4 style='text-align: center;'>" . $results[$i]->title . "</h4>";						
+						echo "<h4 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h4>";						
 						echo "<hr>";
 						
 						// Date

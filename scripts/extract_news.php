@@ -28,4 +28,10 @@
 		// Display the encoded result
 		return json_encode ( $results );
 	}
+	
+	function extractArticle ( $id ) {
+		$article = retrieveArticle ( $id );
+		
+		return json_encode ( $article );
+	}
 ?>

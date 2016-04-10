@@ -31,15 +31,53 @@
 			<a href="forums/index.php"><u>Forums</u></a>
 			
 			<!-- Contact Me -->
-			<a href="https://www.linkedin.com/in/hussainal" target="_blank"><u>Contact Me</u></a>
+			<!--<a href="https://www.linkedin.com/in/hussainal" target="_blank"><u>Contact Me</u></a>-->
 			
 			<!-- Blog -->
 			<a href="https://medium.com/@hussain.al" target="_blank"><u>Blog</u></a>
 		</div>
 		
+		<!-- Menu -->
+		<div class="menu">
+			<!-- Menu image -->
+			<div id="menu_icon_container">
+				<a class="pull-left" href="#">
+					<img id="menu_icon" src="images/messenger.png" width="50px" height="50px" />
+					<span class="badge pull-right"></span>
+				</a>
+			</div>
+			
+			<!-- Latest messages -->
+			<div class="latest_messages container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="panel panel-primary">
+							<div class="panel-heading">
+								<span class="glyphicon glyphicon-comment"></span> Latest Article Messages    
+								<div class="btn-group pull-right">
+									<button type="button" class="close_latest close" data-dismiss="modal">&times;</button>
+								</div>
+							</div>
+							<div class="panel-body">
+								<ul class="latest_chat">   
+								</ul>
+							</div>
+							<div class="panel-footer">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<!-- Logo -->
 		<div class="logo" align="center">
 			<img id="logo_img" src='images/rumijitLogo.gif' width='300px' height='200px' />
+		</div>
+		
+		<!-- Weather -->
+		<div class="weather" align="center">
+			<h4 id="weather_text"></h2>
 		</div>
 	
 		<!-- Introduction -->
@@ -62,7 +100,10 @@
 			<button class="btn btn-primary btn-sm" id="search_button" type="button">Search</button>
 			
 			<!-- Latest News button -->
-			<button class="search_latest_news btn btn-danger btn-sm" id="search_button" type="button">Get Latest News</button>
+			<button class="search_latest_news btn btn-danger btn-sm" type="button">Latest News</button>
+			
+			<!-- Local News button -->
+			<button class="search_local_news btn btn-warning btn-sm"  type="button">Local News</button>
 		</div>
 		
 		<!-- Summarize an individual article -->
@@ -126,11 +167,13 @@
 			<p class="text-muted">
 				Content &copy; 2016 &nbsp;RumijIt. All Rights Reserved &nbsp; &nbsp;
 			</p>
-		</footer>
-		-->
+		</footer> -->
 		
 		<!-- Restart the session -->
 		<?php
+			// Turn off all error reporting
+			error_reporting(0);
+
 			session_unset();
 			session_destroy();
 		?>

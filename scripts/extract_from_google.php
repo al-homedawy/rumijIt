@@ -7,12 +7,14 @@
 		public $date;
 		public $thumbnail;
 		public $summary;
+		public $google_chat;
 		
 		function __construct ( $title, $url, $date, $thumbnail ) {
 			$this->title = $title;
 			$this->url = $url;
 			$this->date = $date;
 			$this->thumbnail = $thumbnail;
+			$this->google_chat = true;
 		}
 	}
 	

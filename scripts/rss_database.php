@@ -5,6 +5,25 @@
 	$password="john.f.kennedy";
 	$database="hussaina_projecty";
 	
+	function clearLatestMessagesDB () {
+		global $servername, $username, $password, $database;
+		
+		// Establish a connection
+		$connection = new mysqli($servername, $username, $password, $database);
+		
+		// Check connection
+		if ( $connection->connect_error ) {
+			die ("Connection failed: " . $connection->connect_error);
+		}
+		
+		$sql = "TRUNCATE TABLE latest_messages";
+		
+		$connection->query($sql);
+
+		// Close the connection
+		$connection->close();
+	}
+	
 	function clearRSSDatabase () {
 		global $servername, $username, $password, $database;
 		
@@ -45,6 +64,32 @@
 
 		// Close the connection
 		$connection->close();
+	}
+	
+	function retrieveArticle ( $id ) {		
+		global $servername, $username, $password, $database;
+		
+		// Establish a connection
+		$connection = new mysqli($servername, $username, $password, $database);
+		
+		// Check connection
+		if ( $connection->connect_error ) {
+			die ("Connection failed: " . $connection->connect_error);
+		}
+		
+		$sql = "SELECT * FROM rss_feeds WHERE id='$id'";
+		$result = $connection->query($sql);	
+		
+		// Collect the results
+		$results = array ();
+		$row = $result->fetch_assoc();
+		
+		array_push ( $results, $row );		
+		
+		// Close the connection
+		$connection->close();
+		
+		return $results;
 	}
 	
 	function retrieveAllFeeds ( $search ) {		

@@ -53,6 +53,13 @@
 			// Definitions
 			define ( "MAX_SEARCH_RESULT", "5" );
 			
+			// Obtain an id if specified
+			$id = -1;
+			
+			if ( isset ( $_GET["id"] ) ) {
+				$id = $_GET["id"];
+			}
+					
 			// Obtain the search query
 			$query = $_GET["search"];
 			
@@ -83,7 +90,9 @@
 			
 			// Find the results if we haven't saved them
 			if ( $current_page == 0 && $results == null ) {
-				if ( !isset ($query) ) {
+				if ( $id != -1 ) {					
+					$results = json_decode ( extractArticle ( $id ) );
+				} else if ( !isset ($query) ) {
 					$query = $_GET["url"];
 					$news = new GoogleNews ( "", $query, "", "" );			
 					$title = "";				
@@ -158,26 +167,27 @@
 						// View
 						echo "<a id='search_view' class='btn btn-success' role='button' href='" . $results[$i]->url . "' target='_blank'>Click here to view original article</a>";
 						
-						echo "<table class='share_button' align='center'>";
-						
-						echo "<td align='center'>";
-							// Share on Facebook
-							echo "<div class='fb-share-button' data-href='" . $results[$i]->url . "' data-layout='button'></div>";
-						echo "</td>";
-						
-						echo "<td align='center'>";
-							// Share on Twitter
-							echo "<a href='https://twitter.com/share' class='twitter-share-button' data-url='" . $results[$i]->url . "'>Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>";
-						echo "</td>";
-						
-						echo "<td align='center'>";
-							echo "<div style='margin-top: 5px;'>";
-								// Share on Google+
-								echo "<g:plus count='false' action='share' href='" . $results[$i]->url . "'></g:plus>";
-							echo "</div>";
-						echo "</td>";
-						
+						echo "<table class='share_button' align='center'>";						
+							echo "<td align='center'>";
+								// Share on Facebook
+								echo "<div class='fb-share-button' data-href='" . $results[$i]->url . "' data-layout='button'></div>";
+							echo "</td>";
+							
+							echo "<td align='center'>";
+								// Share on Twitter
+								echo "<a href='https://twitter.com/share' class='twitter-share-button' data-url='" . $results[$i]->url . "'>Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>";
+							echo "</td>";
+							
+							echo "<td align='center'>";
+								echo "<div style='margin-top: 5px;'>";
+									// Share on Google+
+									echo "<g:plus count='false' action='share' href='" . $results[$i]->url . "'></g:plus>";
+								echo "</div>";
+							echo "</td>";						
 						echo "</table>";
+						
+						// Report a summary
+						echo "<a href='#' class='report_summary' article_id='" . $results[$i]->id . "'><u>Report this article</u></a>";
 						
 					echo "</td>";
 				}
@@ -215,6 +225,30 @@
 									}
 									
 								echo "</table>";
+								
+								// Display a chatbox for RSS feeds only
+								if ( $results[$i]->google_chat == false ) {		
+									// Chatbox 
+									echo "<div class='chat_form container-fluid col-lg-6 col-lg-offset-3 text-center' align='center' article_id='" . $results[$i]->id . "'>";
+										echo "<div class='row'>";
+											echo "<div>";
+												
+												echo "<div class='panel panel-primary'>";
+													echo "<div class='panel-heading'>";
+														echo "<span class='glyphicon glyphicon-comment'></span> " . $results[$i]->title;               
+													echo "</div>";
+													echo "<div class='panel-body'>";
+														echo "<ul class='chat'>";
+														echo "</ul>";
+													echo "</div>";
+													echo "<div class='panel-footer'>";
+														echo "<input id='message_text' type='text' class='form-control input-sm' placeholder='Type your message here...' style='width: 100%;' />";
+													echo "</div>";
+												echo "</div>";
+											echo "</div>";
+										echo "</div>";
+									echo "</div>";	
+								}
 								
 							echo "</div>";
 						}

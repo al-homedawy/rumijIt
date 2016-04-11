@@ -52,6 +52,7 @@
 			
 			// Definitions
 			define ( "MAX_SEARCH_RESULT", "5" );
+			define ( "MAX_RESULTS", "30" );
 			
 			// Obtain an id if specified
 			$id = -1;
@@ -92,10 +93,10 @@
 			if ( $current_page == 0 && $results == null ) {
 				if ( $id != -1 ) {					
 					$results = json_decode ( extractArticle ( $id ) );
-				} else if ( !isset ($query) ) {
+				} else if ( !isset ($query) ) {					
 					$query = $_GET["url"];
 					$news = new GoogleNews ( "", $query, "", "" );			
-					$title = "";				
+					$title = "";						
 					summarizeArticle ( $news, $title );			
 					$news->title = $title;
 					$results = array ( $news );
@@ -126,13 +127,38 @@
 		<!-- Display the search results -->
 		<div class="search_results container-fluid">
 			<?php
+				function ranger($url){
+					$headers = array(
+					"Range: bytes=0-32768"
+					);
+
+					$curl = curl_init($url);
+					curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
+					curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+					$data = curl_exec($curl);
+					curl_close($curl);
+					return $data;
+				}
+
 				function displayArticleInformation ($i) {
 					global $results;
 					
 					// Display the article image
 					echo "<td class='search_image' style='width: 70%;'>";
-						if ( strlen($results[$i]->thumbnail) > 0 ) {
-							echo "<img class='search_image_src img-rounded' title='Click on the image for a summary!' src='" . $results[$i]->thumbnail . "'/>";
+						if ( strlen($results[$i]->thumbnail) > 0 ) {							
+							$raw = ranger($results[$i]->thumbnail);
+							$im = imagecreatefromstring($raw);
+
+							$width = imagesx($im);
+							$height = imagesy($im);							
+							
+							if ( $width < 200 ||
+								 $height < 200 ) {									 
+									 echo "<h2 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h2>";
+									 echo "<p style='text-align: center; font-size: 16px;'><kbd>Click over here to read the description!</kbd></p>";
+							} else {
+								echo "<img class='search_image_src img-rounded' title='Click on the image for a summary!' src='" . $results[$i]->thumbnail . "'/>";
+							}
 						} else {						
 							echo "<h2 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h2>";
 							echo "<p style='text-align: center; font-size: 16px;'><kbd>Click over here to read the description!</kbd></p>";
@@ -143,10 +169,16 @@
 					// Display the article summary						
 					echo "<td class='search_summary jumbotron' style='width: 70%;'>";													
 						echo "<ul>";
-							$summary = json_decode ( $results[$i]->summary );
+							$summary = array_unique ( json_decode ( $results[$i]->summary ) );
+							
+							if ( count ( $summary ) > 3 ) {
+								$summary = array_slice ( $summary, 0, 3 );
+							}
 							
 							for ( $j = 0; $j < count ($summary); $j ++ ) {
-								echo "<li>" . html_entity_decode ( $summary[$j] ). "</li>";
+								if ( strlen ( $summary [$j] ) > 0 ) {
+									echo "<li>" . preg_replace("/[^A-Za-z0-9 ]/", '', preg_replace ( "/u00e2u0080u009(.*?)./", "", html_entity_decode ( $summary[$j] ) ) ) . "</li>";
+								}
 							}
 						echo "</ul>";							
 					echo "</td>";
@@ -158,8 +190,8 @@
 					// Display the article portfolio
 					echo "<td class='search_portfolio jumbotron text-center' style='width: 30%;'>";											
 						// Title
-						echo "<h4 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h4>";						
-						echo "<hr>";
+						//echo "<h4 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h4>";						
+						//echo "<hr>";
 						
 						// Date
 						echo "<p style='text-align: center;'>" . $results[$i]->date . "</p>";
@@ -187,7 +219,7 @@
 						echo "</table>";
 						
 						// Report a summary
-						echo "<a href='#' class='report_summary' article_id='" . $results[$i]->id . "'><u>Report this article</u></a>";
+						echo "<a href='#' class='report_summary' article_id='" . $results[$i]->id . "'><u>Is this article buggy? Report it!</u></a>";
 						
 					echo "</td>";
 				}
@@ -242,7 +274,11 @@
 														echo "</ul>";
 													echo "</div>";
 													echo "<div class='panel-footer'>";
-														echo "<input id='message_text' type='text' class='form-control input-sm' placeholder='Type your message here...' style='width: 100%;' />";
+														echo "<table style='border-collapse: separate; border-spacing: 5px;'>";
+															echo "<tr>";
+																echo "<td style='width: 20%;'><input id='name_text' type='text' class='form-control input-sm' placeholder='...Enter a name...' /></td>";
+																echo "<td style='width: 80%;'><input id='message_text' type='text' class='form-control input-sm' placeholder='...Type your message here...' /></td></tr>";
+														echo "</table>";
 													echo "</div>";
 												echo "</div>";
 											echo "</div>";

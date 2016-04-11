@@ -9,7 +9,8 @@
 	$article_id = $_GET["id"];
 	$name = $_GET["name"];
 	$message = $_GET["message"];
-	//$message = $name . ": " . $message;
+	$message = $name . ": " . $message;	
+	$message = htmlentities ( $message, ENT_QUOTES );
 		
 	// Establish a connection
 	$connection = new mysqli($servername, $username, $password, $database);

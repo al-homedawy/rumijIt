@@ -14,45 +14,12 @@
 	h3{font-size: 10px;}
 	h4{font-size: 10px;}
 	button{font-size: 10px;}
-	.introduction {
-		position: absolute;
-		top: 10%;
-		left: 10%;
-		margin-right: -50%;
-		transform: translate(10%, 10%);
-		width: 100%;
-	}
-	.search_information { width: 100%; }
-	table { width: 100%; padding: 0px; border-collapse: collapse; border-spacing: 0; }
-	td { display:block; }
-	.search_table{padding: 0px; margin: 0px;}
-	.search_image p h2 {font-size: 8px;}
-	.search_summary{font-size: 10px; width: 100%; height: 100%;}
+	.search_image p {font-size: 8px;}	
+	.search_image h2 {font-size: 8px;}
+	.search_summary{font-size: 10px;}
 	.search_portfolio{font-size: 10px;}
-	.search_portfolio p a {font-size: 10px;}
-	#search_view{visibility: visible; position: relative; top: 0%;}
-	#search_query_results {
-		width: 100%;
-	}
-	#logo_img {
-		width: 100px; 
-		height: 80px;
-	}
-	.search_icon{
-		width: 30px;
-		height: 30px;
-	}
-	body {
-		background-color: white;
-		width: 100%;
-		height: 100%;
-		margin: 0;
-		text-align: center;
-	}
-	html, body {
-		max-width: 100%;
-		overflow-x: hidden;
-	}
+	.search_portfolio p {font-size: 10px;}
+	.search_portfolio a {font-size: 10px;}
 }
 
 * {
@@ -60,29 +27,47 @@
 }
 
 .logo {
+	margin-top: 100px;
 	cursor: pointer;
-	position: absolute;
-	top: 25%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
-	z-index: 100;
+	z-index: 9999;
 }
 
-.common_searches {
-	position: absolute;
-	top: 80%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
+.latest_hastags {
+	margin-top: 10px;
 	font-family: "Roboto Condensed";
 	font-weight: normal;
 	color: #4bacff;
 	width: 100%;
 }
 
+.common_searches {
+	margin-top: 10px;
+	font-family: "Roboto Condensed";
+	font-weight: normal;
+	color: #4bacff;
+	width: 100%;
+}
+
+.latest_messages {
+	position: fixed;
+	top: 40%;
+    left: 50%;
+	margin-right: -50%;
+    transform: translate(-50%, -50%);
+	z-index: 100;
+}
+
 .search_results {
 	width: 100%;
+}
+
+.latest_hastags h4 {
+	padding-bottom: 5px;
+}
+
+.latest_hastags a {
+	font-size: 18px;
+	padding-left: 5px;
 }
 
 .common_searches h4 {
@@ -149,21 +134,11 @@ hr {
 }
 
 .weather {
-	position: absolute;
-	top: 35%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
 	width: 100%;
 	color: lightgrey;
 }
 
 .introduction {
-	position: absolute;
-	top: 40%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
 	width: 100%;
 }
 
@@ -171,15 +146,6 @@ hr {
 	font-family: "Quattrocento";
 	font-weight: normal;
 	color: #4bacff;
-}
-
-.single_article_intro {
-	position: absolute;
-    top: 60%;
-    left: 50%;
-	width: 100%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
 }
 
 .search_image h2 {
@@ -198,21 +164,15 @@ hr {
 }
 
 .search_class {
-	position: absolute;
-    top: 50%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
 	z-index: 1;
 	width: 100%;
 }
 
+.single_article_intro {
+	margin-top: 25px;
+}
+
 .single_article_class {
-	position: absolute;
-    top: 70%;
-    left: 50%;
-	margin-right: -50%;
-    transform: translate(-50%, -50%);
 	z-index: 2;
 	width: 100%;
 }
@@ -307,7 +267,27 @@ hr {
 	border-spacing: 1px;
 }
 
-#search_query {
+.vertical-center {	
+	min-height: 100%;  
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex; 
+    -webkit-box-align : center;
+	-webkit-align-items : center;
+    -moz-box-align : center;
+    -ms-flex-align : center;
+    align-items : center;
+	width: 100%;
+    -webkit-box-pack : center;
+    -moz-box-pack : center;
+    -ms-flex-pack : center;
+	-webkit-justify-content : center;
+    justify-content : center;
+}
+
+.search_query {
 	font-family: "Arial";
 	font-weight: normal;
 }
@@ -335,6 +315,11 @@ hr {
 	background: -ms-linear-gradient(top,  #267c99 50%,#007299 50%); /* IE10+ */
 	background: linear-gradient(to bottom,  #267c99 50%,#007299 50%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#267c99', endColorstr='#007299',GradientType=0 ); /* IE6-9 */
+}
+
+.blocks .btn 
+{
+    margin: 5px;
 }
 
 .badge {

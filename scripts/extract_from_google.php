@@ -21,6 +21,7 @@
 	function parseGoogleNews ( $search ) {
 		// Setup our results
 		$google_news = array ();
+		$i = 0;
 		
 		// Replace all spaces with %20
 		$search = str_replace ( ' ', '%20', $search );
@@ -45,7 +46,13 @@
 										null );
 									 
 			// Summarize the article
-			summarizeArticle ( $article );
+			if ( $i < 3 ) {
+				summarizeArticle ( $article );
+			} else {
+				summarizeArticleFast ( $article );
+			}
+			
+			$i = $i + 1;
 			
 			array_push ( $google_news, $article );
 		}

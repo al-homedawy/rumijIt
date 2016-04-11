@@ -1,7 +1,7 @@
 $(function(){	
 	$(".search_summary").hide ();
 	$(".loading_message").hide ();
-	$("#search_query").focus ();
+	$(".search_query").focus ();
 	$(".chat_form").hide ();
 	$(".latest_messages").hide ();
 	$("#menu_icon_container").fadeIn ();
@@ -25,17 +25,7 @@ $(function(){
 		menu_icon ();
 	} );
 	
-	function menu_icon () {		
-		if ( stopMoving == false ) {
-			$("#menu_icon").animate ( {height: '70px', width: '70px'}, 1500, function () {
-				$("#menu_icon").animate ( {height: '50px', width: '50px'}, 1500, menu_icon );
-			});
-		} else {
-			$("#menu_icon").animate ( {height: '50px', width: '50px'}, 400 );
-		}
-	}
 	
-	menu_icon ();
 	
 	$("#menu_icon").click ( function () {
 		$("#menu_icon_container").fadeOut ( 800, function () {
@@ -114,11 +104,20 @@ $(function(){
 								$(".single_article_intro").hide ();
 								$(".single_article_class").hide ();
 								
+								// Obtain the search query
+								var search_query = $(".search_query").val ();
+								
 								// Reposition the search bar 
-								$(".search_class").removeAttr("style");
-								$(".search_class").appendTo(".navbar");
-								$(".search_class").attr("class", "search_class_new");
-								$(".search_class_new").attr("style", "margin: 5px; float: left;");
+								$(".search_class").remove ();
+								$(".search_class_new").remove ();
+								var image_icon = $("<img class='search_icon' src='images/newspaper.png' width='30' height='30' />");
+								image_icon.click ( function () {
+									location.reload ()
+								} );
+								$(".navbar").append ( "<div class='search_class_new' style='margin-left: 5px; float: left; margin-top: 5px;' align='center'></div>" );
+								$(".search_class_new").append ( image_icon );
+								$(".search_class_new").append ( "<input class='search_query' type='text' placeholder='Ex: Trump' list='search_suggestions'><datalist id='search_suggestions'></datalist></input><button class='btn btn-primary btn-sm' id='search_button' type='button'>Search</button>");
+								$(".search_query").val ( search_query );
 		
 								$(".loading_message").hide ();
 								$("#search_query_results").empty().append ( response );
@@ -183,17 +182,17 @@ $(function(){
 			url: "scripts/extract_location_from_ip.php",
 			cache: false,
 			success: function ( response ) {
-				$("#search_query").val ( "Latest News in " + response );
+				$(".search_query").val ( "Latest News in " + response );
 				$("#search_button").click ();
 			}
 		});
 	});
 	
-	var previousText = $("#search_query").val ();
+	var previousText = $(".search_query").val ();
 		
 	setInterval(function () {	
 		// Obtain the latest text
-		var text = $("#search_query").val ();
+		var text = $(".search_query").val ();
 		
 		if ( text.length > 0 && previousText != text ) {
 			$.ajax ( {
@@ -210,10 +209,10 @@ $(function(){
 						$("#search_suggestions").append ( "<option value='" + str + "'>" );
 					}
 					
-					$("#search_query").fadeOut(10, function() {
-						$("#search_query").fadeIn(10, function () {
-							$("#search_query").focus();
-							$("#search_query").val($("#search_query").val());
+					$(".search_query").fadeOut(10, function() {
+						$(".search_query").fadeIn(10, function () {
+							$(".search_query").focus();
+							$(".search_query").val($(".search_query").val());
 						});					
 					});
 				}
@@ -221,7 +220,7 @@ $(function(){
 		}
 	}, 500);		
 		
-	$("#search_query").keypress ( function (e) {		
+	$(".search_query").keypress ( function (e) {		
 		if ( e.keyCode == 13 ) {
 			$("#search_button").click ();
 			$("#search_query").blur ();
@@ -255,14 +254,21 @@ $(function(){
 		$(".single_article_intro").hide ();
 		$(".single_article_class").hide ();
 		
-		// Reposition the search bar 
-		$(".search_class").removeAttr("style");
-		$(".search_class").appendTo(".navbar");
-		$(".search_class").attr("class", "search_class_new");
-		$(".search_class_new").attr("style", "margin: 5px; float: left;");
-		
 		// Obtain the search query
-		var search_query = $("#search_query").val ();
+		var search_query = $(".search_query").val ();
+		
+		// Reposition the search bar 
+		$(".search_class").remove ();
+		$(".search_class_new").remove ();
+		var image_icon = $("<img class='search_icon' src='images/newspaper.png' width='30' height='30' />");
+		image_icon.click ( function () {
+			location.reload ()
+		} );
+		$(".navbar").append ( "<div class='search_class_new' style='margin-left: 5px; float: left; margin-top: 5px;' align='center'></div>" );
+		$(".search_class_new").append ( image_icon );
+		$(".search_class_new").append ( "<input class='search_query' type='text' placeholder='Ex: Trump' list='search_suggestions'><datalist id='search_suggestions'></datalist></input><button class='btn btn-primary btn-sm' id='search_button' type='button'>Search</button>");
+		$(".search_query").val ( search_query );
+		
 		search_query = search_query.replace ( " ", "%20" );
 		
 		// Display the results
@@ -293,14 +299,21 @@ $(function(){
 		$(".single_article_intro").hide ();
 		$(".search_class").hide ();
 		
-		// Reposition the search bar 
-		$(".single_article_class").removeAttr("style");
-		$(".single_article_class").appendTo(".navbar");
-		$(".single_article_class").attr("class", "single_article_class_new");
-		$(".single_article_class_new").attr("style", "margin: 5px; float: left;");
-		
 		// Obtain the search query
 		var search_query = $("#single_article_query").val ();
+		
+		// Reposition the search bar 
+		$(".single_article_class").remove ();
+		$(".single_article_class_new").remove ();
+		var image_icon = $("<img class='search_icon' src='images/newspaper.png' width='30' height='30' />");
+		image_icon.click ( function () {
+			location.reload ()
+		} );
+		$(".navbar").append ( "<div class='single_article_class_new' style='margin-left: 5px; float: left; margin-top: 5px;' align='center'>");
+		$(".single_article_class_new").append ( image_icon );
+		$(".single_article_class_new").append ( "<input id='single_article_query' type='text' placeholder='Ex: http://google.ca' /><button class='btn btn-primary btn-sm' id='single_article_button' type='button'>Summarize</button></div>");
+		$("#single_article_query").val ( search_query );
+		
 		search_query = search_query.replace ( " ", "%20" );
 		search_query = search_query.replace ( "http://", "" );
 		search_query = search_query.replace ( "https://", "" );
@@ -341,57 +354,57 @@ $(function(){
    } );
    
    $(".search_latest_news").click ( function () {
-	   $("#search_query").val ("");
+	   $(".search_query").val ("");
 	   $("#search_button").click ();
    } );
    
    $("#search_tesla").click ( function () {
-	   $("#search_query").val ("tesla");
+	   $(".search_query").val ("tesla");
 	   $("#search_button").click ();
    } );
    
    $("#search_islam").click ( function () {
-	   $("#search_query").val ("islam");
+	   $(".search_query").val ("islam");
 	   $("#search_button").click ();
    } );
 
    $("#search_syria").click ( function () {
-	   $("#search_query").val ("syria");
+	   $(".search_query").val ("syria");
 	   $("#search_button").click ();
    } );
    
    $("#search_trump").click ( function () {
-	   $("#search_query").val ("trump");
+	   $(".search_query").val ("trump");
 	   $("#search_button").click ();
    } );
    
    $("#search_obama").click ( function () {
-	   $("#search_query").val ("obama");
+	   $(".search_query").val ("obama");
 	   $("#search_button").click ();
    } );
    
    $("#search_sports").click ( function () {
-	   $("#search_query").val ("sports");
+	   $(".search_query").val ("sports");
 	   $("#search_button").click ();
    } );
    
    $("#search_united_states").click ( function () {
-	   $("#search_query").val ("United States");
+	   $(".search_query").val ("United States");
 	   $("#search_button").click ();
    } );
    
    $("#search_israel").click ( function () {
-	   $("#search_query").val ("Israel");
+	   $(".search_query").val ("Israel");
 	   $("#search_button").click ();
    } );
    
    $("#search_russia").click ( function () {
-	   $("#search_query").val ("Russia");
+	   $(".search_query").val ("Russia");
 	   $("#search_button").click ();
    } );
    
    $("#search_putin").click ( function () {
-	   $("#search_query").val ("Putin");
+	   $(".search_query").val ("Putin");
 	   $("#search_button").click ();
    } );
    
@@ -399,7 +412,7 @@ $(function(){
 	   var current_page = $("#previous_result").attr ( "data-page" );
 	   
 	   // Obtain the search query
-		var search_query = $("#search_query").val ();
+		var search_query = $(".search_query").val ();
 		search_query = search_query.replace ( " ", "%20" );
 		
 		// Display the results
@@ -416,7 +429,7 @@ $(function(){
 	   var current_page = $("#next_result").attr ( "data-page" );
 	   
 	   // Obtain the search query
-		var search_query = $("#search_query").val ();
+		var search_query = $(".search_query").val ();
 		search_query = search_query.replace ( " ", "%20" );
 		
 		// Display the results
@@ -432,28 +445,32 @@ $(function(){
    $(".chat_form").keypress ( function (e) {		
 		if ( e.keyCode == 13 ) {
 			var article_id = $(this).attr("article_id");
-			var name = "";//$(this).parents(".chat_form").find("#name_text").val();
+			var name = $(this).find("#name_text").val ();
 			var message = $(this).find("#message_text").val ();
 			var chatlog = $(this).find(".chat");
 			
-			// Reset variables
-			$(this).find("#message_text").val ("");
-			
-			$.ajax ( {
-				url: "scripts/post_message.php?id=" + article_id + "&name=" + name + "&message=" + message,
-				cache: false,
-				success: function ( response ) {
-					refreshMessageList ( chatlog, article_id );
-					
-					$.ajax ( {
-						url: "scripts/post_latest_messages.php?id=" + article_id,
-						cache: false,
-						success: function ( response ) {
-							// Do nothing
-						}
-					} );
-				}
-			} );
+			if ( name.length > 0 ) {			
+				// Reset variables
+				$(this).find("#message_text").val ("");
+				
+				$.ajax ( {
+					url: "scripts/post_message.php?id=" + article_id + "&name=" + name + "&message=" + message,
+					cache: false,
+					success: function ( response ) {
+						refreshMessageList ( chatlog, article_id );
+						
+						$.ajax ( {
+							url: "scripts/post_latest_messages.php?id=" + article_id + "&name=" + name,
+							cache: false,
+							success: function ( response ) {
+								// Do nothing
+							}
+						} );
+					}
+				} );
+			} else {
+				alert ( "Please enter a name!" );
+			}
 		}
 	});
 	

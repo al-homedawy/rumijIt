@@ -139,9 +139,11 @@
 					curl_close($curl);
 					return $data;
 				}
+				
+				$display_title = false;
 
 				function displayArticleInformation ($i) {
-					global $results;
+					global $results, $display_title;
 					
 					// Display the article image
 					echo "<td class='search_image' style='width: 70%;'>";
@@ -157,6 +159,7 @@
 									 echo "<h2 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h2>";
 									 echo "<p style='text-align: center; font-size: 16px;'><kbd>Click over here to read the description!</kbd></p>";
 							} else {
+								$display_title = true;
 								echo "<img class='search_image_src img-rounded' title='Click on the image for a summary!' src='" . $results[$i]->thumbnail . "'/>";
 							}
 						} else {						
@@ -185,13 +188,15 @@
 				}
 				
 				function displayArticlePortfolio ($i) {
-					global $results;
+					global $results, $display_title;
 					
 					// Display the article portfolio
 					echo "<td class='search_portfolio jumbotron text-center' style='width: 30%;'>";											
 						// Title
-						//echo "<h4 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h4>";						
-						//echo "<hr>";
+						if ( $display_title == true ) {
+							echo "<h4 style='text-align: center;'>" . html_entity_decode ( $results[$i]->title ) . "</h4>";						
+							echo "<hr>";
+						}
 						
 						// Date
 						echo "<p style='text-align: center;'>" . $results[$i]->date . "</p>";

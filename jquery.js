@@ -398,8 +398,8 @@ $(function(){
 	   $("#search_button").click ();
    } );
    
-   $("#search_russia").click ( function () {
-	   $(".search_query").val ("Russia");
+   $("#search_sanders").click ( function () {
+	   $(".search_query").val ("Sanders");
 	   $("#search_button").click ();
    } );
    

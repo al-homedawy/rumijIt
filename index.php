@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Rumijit</title>
+		<title>RumijIt</title>
 		
 		<!-- Site information -->
 		<meta name="author" content="Hussain Al-Homedawy">
@@ -27,8 +27,13 @@
 	<body>				
 		<!-- Navbar -->
 		<div class="container navbar">	
+			<p><strong>BETA</strong></p>
+			
 			<!-- Blog -->
-			<a href="https://medium.com/@hussain.al" target="_blank"><u>Blog</u></a>
+			<a href="https://medium.com/@hussain.al" target="_blank"><u>Blog</u></a>	
+
+			<!-- About Me -->
+			<a href="http://www.al-homedawy.com" target="_blank"><u>About Me</u></a>
 		</div>
 		
 		<!-- Menu -->
@@ -108,19 +113,19 @@
 						
 			<!-- Common searches -->
 			<div class="common_searches row" align="center">			
-				<h4>Quick Search..</h4>
+				<h3>Quick Search..</h3>
+				
+				<!-- Syria -->
+				<a href="#" id="search_syria"><u>Syria</u></a>
+				
+				<!-- Putin -->
+				<a href="#" id="search_putin"><u>Putin</u></a>
 				
 				<!-- Trump -->
 				<a href="#" id="search_trump"><u>Trump</u></a>
 							
-				<!-- Russia -->
-				<a href="#" id="search_russia"><u>Russia</u></a>
-				
-				<!-- Israel -->
-				<a href="#" id="search_israel"><u>Israel</u></a>
-				
-				<!-- United States -->
-				<a href="#" id="search_united_states"><u>United States</u></a>
+				<!-- Bernie Sanders -->
+				<a href="#" id="search_sanders"><u>Sanders</u></a>
 				
 				<!-- Tesla -->
 				<a href="#" id="search_tesla"><u>Tesla</u></a>
@@ -128,17 +133,18 @@
 				<!-- Islam -->
 				<a href="#" id="search_islam"><u>Islam</u></a>
 				
-				<!-- Syria -->
-				<a href="#" id="search_syria"><u>Syria</u></a>
+				<!-- Israel -->
+				<a href="#" id="search_israel"><u>Israel</u></a>
 				
-				<!-- Bernie Sanders -->
-				<a href="#" id="search_putin"><u>Putin</u></a>
+				<!-- United States -->
+				<a href="#" id="search_united_states"><u>United States</u></a>	
 				
 				<!-- Obama -->
-				<a href="#" id="search_obama"><u>Obama</u></a>
-				
+				<a href="#" id="search_obama"><u>Obama</u></a>	
+
 				<!-- Sports -->
-				<a href="#" id="search_sports"><u>Sports</u></a>
+				<a href="#" id="search_sports"><u>Sports</u></a>				
+				
 			</div>
 			
 			<!-- Latest messages -->

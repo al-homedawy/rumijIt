@@ -41,7 +41,7 @@
 }
 
 .common_searches {
-	margin-top: 10px;
+	margin-top: 25px;
 	font-family: "Roboto Condensed";
 	font-weight: normal;
 	color: #4bacff;
@@ -70,12 +70,12 @@
 	padding-left: 5px;
 }
 
-.common_searches h4 {
+.common_searches h3 {
 	padding-bottom: 5px;
 }
 
 .common_searches a {
-	font-size: 18px;
+	font-size: 25px;
 	padding-left: 5px;
 }
 
@@ -232,6 +232,12 @@ hr {
 	font-size: 18px;
 	width: 100%;	
 	background-color: white;
+}
+
+.navbar p {
+	font-size: 16px;
+	float: left;
+	margin: 20px;
 }
 
 .navbar a {
